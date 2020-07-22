@@ -1,0 +1,743 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Launching server... 
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59967.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56926.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:59967|127.0.0.1:56926].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.2200436
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.3151338
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.3837776
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.4714578
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.5569386
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.6485491
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.7315386
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.8088851
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.8895256
+[Info]    MMOServerPlugin       Position: 0.3593839, 0.9761218
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.057109
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.147713
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.226663
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.304724
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.404506
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.489212
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.572726
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.654871
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.803387
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.898441
+[Info]    MMOServerPlugin       Position: 0.3593839, 1.978674
+[Info]    MMOServerPlugin       Position: 0.4596939, 1.978674
+[Info]    MMOServerPlugin       Position: 0.5843204, 1.978674
+[Info]    MMOServerPlugin       Position: 0.6723039, 1.978674
+[Info]    MMOServerPlugin       Position: 0.7764816, 1.978674
+[Info]    MMOServerPlugin       Position: 0.8627991, 1.978674
+[Info]    MMOServerPlugin       Position: 1.016838, 1.978674
+[Info]    MMOServerPlugin       Position: 1.103035, 1.978674
+[Info]    MMOServerPlugin       Position: 1.192642, 1.978674
+[Info]    MMOServerPlugin       Position: 1.153641, 1.884549
+[Info]    MMOServerPlugin       Position: 1.084475, 1.717622
+[Info]    MMOServerPlugin       Position: 1.05939, 1.657084
+[Info]    MMOServerPlugin       Position: 1.034839, 1.597832
+[Info]    MMOServerPlugin       Position: 0.9888883, 1.486933
+[Info]    MMOServerPlugin       Position: 0.9797777, 1.464946
+[Info]    MMOServerPlugin       Position: 0.9456146, 1.382496
+[Info]    MMOServerPlugin       Position: 0.9284315, 1.282811
+[Info]    MMOServerPlugin       Position: 0.9986639, 1.093445
+[Info]    MMOServerPlugin       Position: 1.08637, 0.9843014
+[Info]    MMOServerPlugin       Position: 1.121904, 0.9478307
+[Info]    MMOServerPlugin       Position: 1.249127, 0.8360398
+[Info]    MMOServerPlugin       Position: 1.480086, 0.7403417
+[Info]    MMOServerPlugin       Position: 1.521788, 0.840986
+[Info]    MMOServerPlugin       Position: 1.576213, 0.9723361
+[Info]    MMOServerPlugin       Position: 1.609347, 1.052302
+[Info]    MMOServerPlugin       Position: 1.611257, 1.156495
+[Info]    MMOServerPlugin       Position: 1.508717, 1.293101
+[Info]    MMOServerPlugin       Position: 1.3917, 1.369809
+[Info]    MMOServerPlugin       Position: 1.260884, 1.424013
+[Info]    MMOServerPlugin       Position: 1.088483, 1.495448
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59968.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56927.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:59968|127.0.0.1:56927].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59969.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56928.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:59969|127.0.0.1:56928].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59970.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56929.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:59970|127.0.0.1:56929].
+[Info]    MMOServerPlugin       Welcome adventurer, 3
+[Info]    MMOServerPlugin       Goodbye adventurer, 3
+[Info]    ClientManager         Client [3] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59971.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56930.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:59971|127.0.0.1:56930].
+[Info]    MMOServerPlugin       Welcome adventurer, 4
+[Info]    MMOServerPlugin       Goodbye adventurer, 4
+[Info]    ClientManager         Client [4] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59972.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56931.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:59972|127.0.0.1:56931].
+[Info]    MMOServerPlugin       Welcome adventurer, 5
+[Info]    MMOServerPlugin       Goodbye adventurer, 5
+[Info]    ClientManager         Client [5] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59973.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56932.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:59973|127.0.0.1:56932].
+[Info]    MMOServerPlugin       Welcome adventurer, 6
+[Info]    MMOServerPlugin       Goodbye adventurer, 6
+[Info]    ClientManager         Client [6] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59974.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56933.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:59974|127.0.0.1:56933].
+[Info]    MMOServerPlugin       Welcome adventurer, 7
+[Info]    MMOServerPlugin       Goodbye adventurer, 7
+[Info]    ClientManager         Client [7] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59975.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56934.
+[Info]    ClientManager         New client [8] connected [127.0.0.1:59975|127.0.0.1:56934].
+[Info]    MMOServerPlugin       Welcome adventurer, 8
+[Info]    MMOServerPlugin       Goodbye adventurer, 8
+[Info]    ClientManager         Client [8] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59976.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56935.
+[Info]    ClientManager         New client [9] connected [127.0.0.1:59976|127.0.0.1:56935].
+[Info]    MMOServerPlugin       Welcome adventurer, 9
+[Info]    MMOServerPlugin       Goodbye adventurer, 9
+[Info]    ClientManager         Client [9] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59977.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56936.
+[Info]    ClientManager         New client [10] connected [127.0.0.1:59977|127.0.0.1:56936].
+[Info]    MMOServerPlugin       Welcome adventurer, 10
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.1801738
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.3710853
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.5974528
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.6127617
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.6773195
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.7757922
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.8807295
+[Info]    MMOServerPlugin       Position: 0.3501604, 0.9492673
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.102117
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.115584
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.178221
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.339141
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.431018
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.460807
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.50844
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.75844
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.880445
+[Info]    MMOServerPlugin       Position: 0.3501604, 1.966783
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.03054
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.074258
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.257369
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.395822
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.501491
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.590647
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.659036
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.714475
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.866017
+[Info]    MMOServerPlugin       Position: 0.3501604, 2.956518
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.030786
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.118654
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.192063
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.281862
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.356186
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.451005
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.510112
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.65861
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.688224
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.761772
+[Info]    MMOServerPlugin       Position: 0.3501604, 3.937401
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.103379
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.226239
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.341901
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.591901
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.747794
+[Info]    MMOServerPlugin       Position: 0.3501604, 4.935035
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.157326
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.305955
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.438873
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.484841
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.663897
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.875374
+[Info]    MMOServerPlugin       Position: 0.3501604, 5.943461
+[Info]    MMOServerPlugin       Goodbye adventurer, 10
+[Info]    ClientManager         Client [10] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59978.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56937.
+[Info]    ClientManager         New client [11] connected [127.0.0.1:59978|127.0.0.1:56937].
+[Info]    MMOServerPlugin       Welcome adventurer, 11
+[Info]    MMOServerPlugin       Goodbye adventurer, 11
+[Info]    ClientManager         Client [11] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59979.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56938.
+[Info]    ClientManager         New client [12] connected [127.0.0.1:59979|127.0.0.1:56938].
+[Info]    MMOServerPlugin       Welcome adventurer, 12
+[Info]    MMOServerPlugin       Goodbye adventurer, 12
+[Info]    ClientManager         Client [12] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59980.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56939.
+[Info]    ClientManager         New client [13] connected [127.0.0.1:59980|127.0.0.1:56939].
+[Info]    MMOServerPlugin       Welcome adventurer, 13
+[Info]    MMOServerPlugin       Goodbye adventurer, 13
+[Info]    ClientManager         Client [13] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59981.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56940.
+[Info]    ClientManager         New client [14] connected [127.0.0.1:59981|127.0.0.1:56940].
+[Info]    MMOServerPlugin       Welcome adventurer, 14
+[Info]    MMOServerPlugin       Goodbye adventurer, 14
+[Info]    ClientManager         Client [14] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59982.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56941.
+[Info]    ClientManager         New client [15] connected [127.0.0.1:59982|127.0.0.1:56941].
+[Info]    MMOServerPlugin       Welcome adventurer, 15
+[Info]    MMOServerPlugin       Goodbye adventurer, 15
+[Info]    ClientManager         Client [15] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59983.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56942.
+[Info]    ClientManager         New client [16] connected [127.0.0.1:59983|127.0.0.1:56942].
+[Info]    MMOServerPlugin       Welcome adventurer, 16
+[Info]    MMOServerPlugin       Goodbye adventurer, 16
+[Info]    ClientManager         Client [16] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59984.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56943.
+[Info]    ClientManager         New client [17] connected [127.0.0.1:59984|127.0.0.1:56943].
+[Info]    MMOServerPlugin       Welcome adventurer, 17
+[Info]    MMOServerPlugin       Goodbye adventurer, 17
+[Info]    ClientManager         Client [17] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59985.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56944.
+[Info]    ClientManager         New client [18] connected [127.0.0.1:59985|127.0.0.1:56944].
+[Info]    MMOServerPlugin       Welcome adventurer, 18
+[Info]    MMOServerPlugin       Goodbye adventurer, 18
+[Info]    ClientManager         Client [18] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59986.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56945.
+[Info]    ClientManager         New client [19] connected [127.0.0.1:59986|127.0.0.1:56945].
+[Info]    MMOServerPlugin       Welcome adventurer, 19
+[Info]    MMOServerPlugin       Position: 0.4302888, 0.5185254
+[Info]    MMOServerPlugin       Position: 0.4302888, 0.6148804
+[Info]    MMOServerPlugin       Position: 0.4302888, 0.7565637
+[Info]    MMOServerPlugin       Position: 0.4302888, 0.9329319
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.023016
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.273016
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.292202
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.307157
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.394667
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.644667
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.730939
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.807413
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.830643
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.844796
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.858387
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.881441
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.932174
+[Info]    MMOServerPlugin       Position: 0.4302888, 1.968297
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.030802
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.0736
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.094999
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.159952
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.320322
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.38559
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.431149
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.469891
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.529674
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.606153
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.744014
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.796463
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.865567
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.908639
+[Info]    MMOServerPlugin       Position: 0.4302888, 2.945619
+[Info]    MMOServerPlugin       Goodbye adventurer, 19
+[Info]    ClientManager         Client [19] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59987.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56946.
+[Info]    ClientManager         New client [20] connected [127.0.0.1:59987|127.0.0.1:56946].
+[Info]    MMOServerPlugin       Welcome adventurer, 20
+[Info]    MMOServerPlugin       Goodbye adventurer, 20
+[Info]    ClientManager         Client [20] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59988.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56947.
+[Info]    ClientManager         New client [21] connected [127.0.0.1:59988|127.0.0.1:56947].
+[Info]    MMOServerPlugin       Welcome adventurer, 21
+[Info]    MMOServerPlugin       Goodbye adventurer, 21
+[Info]    ClientManager         Client [21] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59989.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56948.
+[Info]    ClientManager         New client [22] connected [127.0.0.1:59989|127.0.0.1:56948].
+[Info]    MMOServerPlugin       Welcome adventurer, 22
+[Info]    MMOServerPlugin       Position: 0.2605253, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.3521186, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.4190791, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.4421533, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.4949098, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.540284, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.5760185, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.6266147, -0.1697994
+[Info]    MMOServerPlugin       Position: 0.6700478, -0.1697994
+[Info]    MMOServerPlugin       Goodbye adventurer, 22
+[Info]    ClientManager         Client [22] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59990.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56949.
+[Info]    ClientManager         New client [23] connected [127.0.0.1:59990|127.0.0.1:56949].
+[Info]    MMOServerPlugin       Welcome adventurer, 23
+[Info]    MMOServerPlugin       Goodbye adventurer, 23
+[Info]    ClientManager         Client [23] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59991.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56950.
+[Info]    ClientManager         New client [24] connected [127.0.0.1:59991|127.0.0.1:56950].
+[Info]    MMOServerPlugin       Welcome adventurer, 24
+[Info]    MMOServerPlugin       Goodbye adventurer, 24
+[Info]    ClientManager         Client [24] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59992.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56951.
+[Info]    ClientManager         New client [25] connected [127.0.0.1:59992|127.0.0.1:56951].
+[Info]    MMOServerPlugin       Welcome adventurer, 25
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.237754
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.3421767
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.42963
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.5960757
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.764616
+[Info]    MMOServerPlugin       Position: 0.2920696, 0.9931417
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.034898
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.09479
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.184227
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.421542
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.502042
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.545157
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.62457
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.822685
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.836704
+[Info]    MMOServerPlugin       Position: 0.2920696, 1.922947
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.036387
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.256907
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.317415
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.355339
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.482046
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.73199
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.796657
+[Info]    MMOServerPlugin       Position: 0.2920696, 2.860753
+[Info]    MMOServerPlugin       Goodbye adventurer, 25
+[Info]    ClientManager         Client [25] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59993.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56952.
+[Info]    ClientManager         New client [26] connected [127.0.0.1:59993|127.0.0.1:56952].
+[Info]    MMOServerPlugin       Welcome adventurer, 26
+[Info]    MMOServerPlugin       Goodbye adventurer, 26
+[Info]    ClientManager         Client [26] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59994.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56953.
+[Info]    ClientManager         New client [27] connected [127.0.0.1:59994|127.0.0.1:56953].
+[Info]    MMOServerPlugin       Welcome adventurer, 27
+[Info]    MMOServerPlugin       Goodbye adventurer, 27
+[Info]    ClientManager         Client [27] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59995.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56954.
+[Info]    ClientManager         New client [28] connected [127.0.0.1:59995|127.0.0.1:56954].
+[Info]    MMOServerPlugin       Welcome adventurer, 28
+[Info]    MMOServerPlugin       Position: -0.2345664, 0.4056973
+[Info]    MMOServerPlugin       Position: -0.4845664, 0.4056973
+[Info]    MMOServerPlugin       Position: -0.6387036, 0.4056973
+[Info]    MMOServerPlugin       Position: -0.8367214, 0.4056973
+[Info]    MMOServerPlugin       Position: -1.063517, 0.4056973
+[Info]    MMOServerPlugin       Position: -1.313517, 0.4056973
+[Info]    MMOServerPlugin       Position: -1.464544, 0.4056973
+[Info]    MMOServerPlugin       Position: -1.412704, 0.4932876
+[Info]    MMOServerPlugin       Position: -1.376054, 0.5638803
+[Info]    MMOServerPlugin       Position: -1.344794, 0.6327545
+[Info]    MMOServerPlugin       Position: -1.310825, 0.7234187
+[Info]    MMOServerPlugin       Position: -1.302843, 0.7458502
+[Info]    MMOServerPlugin       Position: -1.297501, 0.7614289
+[Info]    MMOServerPlugin       Position: -1.283207, 0.8082753
+[Info]    MMOServerPlugin       Position: -1.276104, 0.8331532
+[Info]    MMOServerPlugin       Position: -1.268046, 0.8639554
+[Info]    MMOServerPlugin       Position: -1.25709, 0.9127247
+[Info]    MMOServerPlugin       Position: -1.251313, 0.9411126
+[Info]    MMOServerPlugin       Position: -1.244264, 0.9816954
+[Info]    MMOServerPlugin       Position: -1.235909, 1.048001
+[Info]    MMOServerPlugin       Position: -1.231009, 1.169873
+[Info]    MMOServerPlugin       Position: -1.230579, 1.184072
+[Info]    MMOServerPlugin       Position: -1.230294, 1.197868
+[Info]    MMOServerPlugin       Position: -1.230388, 1.231449
+[Info]    MMOServerPlugin       Position: -1.231753, 1.273677
+[Info]    MMOServerPlugin       Position: -1.23513, 1.32375
+[Info]    MMOServerPlugin       Position: -1.250379, 1.430134
+[Info]    MMOServerPlugin       Position: -1.294372, 1.59467
+[Info]    MMOServerPlugin       Position: -1.31067, 1.647394
+[Info]    MMOServerPlugin       Position: -1.314837, 1.66043
+[Info]    MMOServerPlugin       Position: -1.318773, 1.672383
+[Info]    MMOServerPlugin       Position: -1.322889, 1.684514
+[Info]    MMOServerPlugin       Position: -1.336705, 1.721802
+[Info]    MMOServerPlugin       Position: -1.378324, 1.813695
+[Info]    MMOServerPlugin       Position: -1.468702, 1.96222
+[Info]    MMOServerPlugin       Position: -1.497668, 2.00611
+[Info]    MMOServerPlugin       Position: -1.513297, 2.028827
+[Info]    MMOServerPlugin       Position: -1.527813, 2.049157
+[Info]    MMOServerPlugin       Position: -1.548569, 2.076793
+[Info]    MMOServerPlugin       Position: -1.612813, 2.15112
+[Info]    MMOServerPlugin       Position: -1.716507, 2.249344
+[Info]    MMOServerPlugin       Position: -1.736198, 2.267313
+[Info]    MMOServerPlugin       Position: -1.746552, 2.27658
+[Info]    MMOServerPlugin       Position: -1.756136, 2.285004
+[Info]    MMOServerPlugin       Position: -1.793616, 2.315764
+[Info]    MMOServerPlugin       Position: -1.872549, 2.372063
+[Info]    MMOServerPlugin       Position: -1.926538, 2.407024
+[Info]    MMOServerPlugin       Position: -2.032539, 2.463666
+[Info]    MMOServerPlugin       Position: -2.072913, 2.483635
+[Info]    MMOServerPlugin       Position: -2.132461, 2.509793
+[Info]    MMOServerPlugin       Position: -2.167861, 2.524229
+[Info]    MMOServerPlugin       Position: -2.229918, 2.546267
+[Info]    MMOServerPlugin       Position: -2.272435, 2.559889
+[Info]    MMOServerPlugin       Position: -2.323329, 2.574148
+[Info]    MMOServerPlugin       Position: -2.337348, 2.577923
+[Info]    MMOServerPlugin       Position: -2.359222, 2.583445
+[Info]    MMOServerPlugin       Position: -2.38325, 2.589072
+[Info]    MMOServerPlugin       Position: -2.445254, 2.60074
+[Info]    MMOServerPlugin       Position: -2.471893, 2.605235
+[Info]    MMOServerPlugin       Position: -2.533857, 2.61293
+[Info]    MMOServerPlugin       Position: -2.606953, 2.618231
+[Info]    MMOServerPlugin       Position: -2.672739, 2.619971
+[Info]    MMOServerPlugin       Position: -2.795975, 2.6126
+[Info]    MMOServerPlugin       Position: -2.810823, 2.611557
+[Info]    MMOServerPlugin       Position: -2.846692, 2.608129
+[Info]    MMOServerPlugin       Position: -2.885041, 2.603416
+[Info]    MMOServerPlugin       Position: -2.936243, 2.595234
+[Info]    MMOServerPlugin       Position: -3.074607, 2.558667
+[Info]    MMOServerPlugin       Position: -3.232247, 2.4963
+[Info]    MMOServerPlugin       Position: -3.273878, 2.478286
+[Info]    MMOServerPlugin       Position: -3.285886, 2.472958
+[Info]    MMOServerPlugin       Position: -3.299561, 2.466719
+[Info]    MMOServerPlugin       Position: -3.350651, 2.440893
+[Info]    MMOServerPlugin       Position: -3.431716, 2.392985
+[Info]    MMOServerPlugin       Position: -3.546251, 2.308959
+[Info]    MMOServerPlugin       Position: -3.579517, 2.283014
+[Info]    MMOServerPlugin       Position: -3.60689, 2.260555
+[Info]    MMOServerPlugin       Goodbye adventurer, 28
+[Info]    ClientManager         Client [28] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59996.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56955.
+[Info]    ClientManager         New client [29] connected [127.0.0.1:59996|127.0.0.1:56955].
+[Info]    MMOServerPlugin       Welcome adventurer, 29
+[Info]    MMOServerPlugin       Position: -0.04360861, 0.4644454
+[Info]    MMOServerPlugin       Position: -0.04360861, 0.6585724
+[Info]    MMOServerPlugin       Position: -0.04360861, 0.8196197
+[Info]    MMOServerPlugin       Position: -0.04360861, 0.9184169
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.143746
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.208565
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.257627
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.351254
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.585018
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.680563
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.77942
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.963735
+[Info]    MMOServerPlugin       Position: -0.04360861, 1.999141
+[Info]    MMOServerPlugin       Position: -0.04360861, 2.015532
+[Info]    MMOServerPlugin       Position: -0.04360861, 2.070699
+[Info]    MMOServerPlugin       Position: -0.04360861, 2.155608
+[Info]    MMOServerPlugin       Position: 0.02822836, 2.395065
+[Info]    MMOServerPlugin       Position: 0.1841223, 2.550024
+[Info]    MMOServerPlugin       Position: 0.4335136, 2.567459
+[Info]    MMOServerPlugin       Position: 0.4652166, 2.567459
+[Info]    MMOServerPlugin       Position: 0.6465828, 2.567459
+[Info]    MMOServerPlugin       Position: 0.8965828, 2.567459
+[Info]    MMOServerPlugin       Position: 1.038425, 2.567459
+[Info]    MMOServerPlugin       Position: 1.288425, 2.567459
+[Info]    MMOServerPlugin       Position: 1.360057, 2.567459
+[Info]    MMOServerPlugin       Position: 1.610057, 2.567459
+[Info]    MMOServerPlugin       Position: 1.787877, 2.567459
+[Info]    MMOServerPlugin       Position: 2.014256, 2.567459
+[Info]    MMOServerPlugin       Position: 2.264256, 2.567459
+[Info]    MMOServerPlugin       Position: 2.445026, 2.567459
+[Info]    MMOServerPlugin       Position: 2.695026, 2.567459
+[Info]    MMOServerPlugin       Position: 2.924008, 2.567459
+[Info]    MMOServerPlugin       Position: 3.174008, 2.567459
+[Info]    MMOServerPlugin       Goodbye adventurer, 29
+[Info]    ClientManager         Client [29] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59997.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56956.
+[Info]    ClientManager         New client [30] connected [127.0.0.1:59997|127.0.0.1:56956].
+[Info]    MMOServerPlugin       Welcome adventurer, 30
+[Info]    MMOServerPlugin       Goodbye adventurer, 30
+[Info]    ClientManager         Client [30] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59998.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56957.
+[Info]    ClientManager         New client [31] connected [127.0.0.1:59998|127.0.0.1:56957].
+[Info]    MMOServerPlugin       Welcome adventurer, 31
+[Info]    MMOServerPlugin       Goodbye adventurer, 31
+[Info]    ClientManager         Client [31] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:59999.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56958.
+[Info]    ClientManager         New client [32] connected [127.0.0.1:59999|127.0.0.1:56958].
+[Info]    MMOServerPlugin       Welcome adventurer, 32
+[Info]    MMOServerPlugin       Goodbye adventurer, 32
+[Info]    ClientManager         Client [32] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60000.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56959.
+[Info]    ClientManager         New client [33] connected [127.0.0.1:60000|127.0.0.1:56959].
+[Info]    MMOServerPlugin       Welcome adventurer, 33
+[Info]    MMOServerPlugin       Goodbye adventurer, 33
+[Info]    ClientManager         Client [33] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60001.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56960.
+[Info]    ClientManager         New client [34] connected [127.0.0.1:60001|127.0.0.1:56960].
+[Info]    MMOServerPlugin       Welcome adventurer, 34
+[Info]    MMOServerPlugin       Goodbye adventurer, 34
+[Info]    ClientManager         Client [34] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60002.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56961.
+[Info]    ClientManager         New client [35] connected [127.0.0.1:60002|127.0.0.1:56961].
+[Info]    MMOServerPlugin       Welcome adventurer, 35
+[Info]    MMOServerPlugin       Goodbye adventurer, 35
+[Info]    ClientManager         Client [35] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60003.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56962.
+[Info]    ClientManager         New client [36] connected [127.0.0.1:60003|127.0.0.1:56962].
+[Info]    MMOServerPlugin       Welcome adventurer, 36
+[Info]    MMOServerPlugin       Goodbye adventurer, 36
+[Info]    ClientManager         Client [36] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60004.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56963.
+[Info]    ClientManager         New client [37] connected [127.0.0.1:60004|127.0.0.1:56963].
+[Info]    MMOServerPlugin       Welcome adventurer, 37
+[Info]    MMOServerPlugin       Goodbye adventurer, 37
+[Info]    ClientManager         Client [37] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:60005.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56964.
+[Info]    ClientManager         New client [38] connected [127.0.0.1:60005|127.0.0.1:56964].
+[Info]    MMOServerPlugin       Welcome adventurer, 38
+[Info]    MMOServerPlugin       Position: -0.2886913, 0.05965054
+[Info]    MMOServerPlugin       Position: -0.2502955, 0.05965054
+[Info]    MMOServerPlugin       Position: -0.202997, 0.05965054
+[Info]    MMOServerPlugin       Position: -0.09056166, 0.1320702
+[Info]    MMOServerPlugin       Position: -0.05988323, 0.1549542
+[Info]    MMOServerPlugin       Position: -0.03357115, 0.1765524
+[Info]    MMOServerPlugin       Position: -0.0009890348, 0.2059121
+[Info]    MMOServerPlugin       Position: 0.03196054, 0.2378821
+[Info]    MMOServerPlugin       Position: 0.05760749, 0.2639659
+[Info]    MMOServerPlugin       Position: 0.09577131, 0.3166753
+[Info]    MMOServerPlugin       Position: 0.149219, 0.4487862
+[Info]    MMOServerPlugin       Position: 0.1590524, 0.4753191
+[Info]    MMOServerPlugin       Position: 0.1671193, 0.4990046
+[Info]    MMOServerPlugin       Position: 0.1758039, 0.527493
+[Info]    MMOServerPlugin       Position: 0.1865485, 0.570113
+[Info]    MMOServerPlugin       Position: 0.1938134, 0.6047728
+[Info]    MMOServerPlugin       Position: 0.2008266, 0.6501706
+[Info]    MMOServerPlugin       Position: 0.2046334, 0.6834951
+[Info]    MMOServerPlugin       Position: 0.2046334, 0.8271036
+[Info]    MMOServerPlugin       Position: 0.2046334, 0.9345746
+[Info]    MMOServerPlugin       Position: 0.2046334, 0.9793596
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.033753
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.060787
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.181669
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.21103
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.224101
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.26404
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.304768
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.362986
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.443172
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.631999
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.725681
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.744362
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.761167
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.791047
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.810479
+[Info]    MMOServerPlugin       Position: 0.2046334, 1.853352
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.072313
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.120049
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.151357
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.18495
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.239568
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.390302
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.430782
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.489071
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.515906
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.568484
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.594724
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.709835
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.843438
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.901744
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.93665
+[Info]    MMOServerPlugin       Position: 0.2046334, 2.991659
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.024691
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.060201
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.096238
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.302928
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.34148
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.410459
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.448749
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.482681
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.656491
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.729895
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.772073
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.804273
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.851369
+[Info]    MMOServerPlugin       Position: 0.2046334, 3.888873
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.052233
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.109893
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.138943
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.201686
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.298491
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.431892
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.471585
+[Info]    MMOServerPlugin       Position: 0.2046334, 4.519807
+[Info]    MMOServerPlugin       Position: 0.2066878, 4.561159
+[Info]    MMOServerPlugin       Position: 0.2179807, 4.63933
+[Info]    MMOServerPlugin       Position: 0.2295526, 4.689615
+[Info]    MMOServerPlugin       Position: 0.3566144, 4.836562
+[Info]    MMOServerPlugin       Position: 0.4243624, 4.880383
+[Info]    MMOServerPlugin       Position: 0.4692441, 4.899216
+[Info]    MMOServerPlugin       Position: 0.5074515, 4.90936
+[Info]    MMOServerPlugin       Position: 0.5492308, 4.914565
+[Info]    MMOServerPlugin       Position: 0.7409053, 4.914565
+[Info]    MMOServerPlugin       Position: 0.7998155, 4.914565
+[Info]    MMOServerPlugin       Position: 0.8443188, 4.914565
+[Info]    MMOServerPlugin       Position: 0.8886241, 4.914565
+[Info]    MMOServerPlugin       Position: 0.9286356, 4.914565
+[Info]    MMOServerPlugin       Position: 1.074739, 4.914565
+[Info]    MMOServerPlugin       Position: 1.129797, 4.914565
+[Info]    MMOServerPlugin       Position: 1.17686, 4.914565
+[Info]    MMOServerPlugin       Position: 1.223861, 4.914565
+[Info]    MMOServerPlugin       Position: 1.25988, 4.914565
+[Info]    MMOServerPlugin       Position: 1.299204, 4.914565
+[Info]    MMOServerPlugin       Position: 1.348701, 4.914565
+[Info]    MMOServerPlugin       Position: 1.563182, 4.914565
+[Info]    MMOServerPlugin       Position: 1.586253, 4.914565
+[Info]    MMOServerPlugin       Position: 1.643729, 4.914565
+[Info]    MMOServerPlugin       Position: 1.674084, 4.914565
+[Info]    MMOServerPlugin       Position: 1.729919, 4.914565
+[Info]    MMOServerPlugin       Position: 1.924958, 4.914565
+[Info]    MMOServerPlugin       Position: 1.986604, 4.914565
+[Info]    MMOServerPlugin       Position: 2.008664, 4.914565
+[Info]    MMOServerPlugin       Position: 2.064049, 4.914565
+[Info]    MMOServerPlugin       Position: 2.097898, 4.914565
+[Info]    MMOServerPlugin       Position: 2.141859, 4.914565
+[Info]    MMOServerPlugin       Position: 2.320589, 4.914565
+[Info]    MMOServerPlugin       Position: 2.348006, 4.914565
+[Info]    MMOServerPlugin       Position: 2.390986, 4.914565
+[Info]    MMOServerPlugin       Position: 2.430959, 4.914565
+[Info]    MMOServerPlugin       Position: 2.523575, 4.914565
+[Info]    MMOServerPlugin       Position: 2.686365, 4.914565
+[Info]    MMOServerPlugin       Position: 2.723718, 4.914565
+[Info]    MMOServerPlugin       Position: 2.753021, 4.914565
+[Info]    MMOServerPlugin       Position: 2.803399, 4.914565
+[Info]    MMOServerPlugin       Position: 2.83963, 4.914565
+[Info]    MMOServerPlugin       Position: 2.887679, 4.914565
+[Info]    MMOServerPlugin       Position: 2.92449, 4.914565
+[Info]    MMOServerPlugin       Position: 3.114055, 4.914565
+[Info]    MMOServerPlugin       Position: 3.194679, 4.914565
+[Info]    MMOServerPlugin       Position: 3.223105, 4.914565
+[Info]    MMOServerPlugin       Position: 3.259048, 4.914565
+[Info]    MMOServerPlugin       Position: 3.304727, 4.914565
+[Info]    MMOServerPlugin       Position: 3.473404, 4.914565
+[Info]    MMOServerPlugin       Position: 3.501016, 4.914565
+[Info]    MMOServerPlugin       Position: 3.551214, 4.914565
+[Info]    MMOServerPlugin       Position: 3.598402, 4.914565
+[Info]    MMOServerPlugin       Position: 3.649321, 4.914565
+[Info]    MMOServerPlugin       Position: 3.750558, 4.914565
+[Info]    MMOServerPlugin       Position: 3.915309, 4.914565
+[Info]    MMOServerPlugin       Position: 3.959972, 4.914565
+[Info]    MMOServerPlugin       Position: 3.973916, 4.914565
+[Info]    MMOServerPlugin       Position: 4.009979, 4.914565
+[Info]    MMOServerPlugin       Position: 4.06836, 4.914565
+[Info]    MMOServerPlugin       Position: 4.092481, 4.914565
+[Info]    MMOServerPlugin       Position: 4.145754, 4.914565
+[Info]    MMOServerPlugin       Position: 4.309772, 4.914565
+[Info]    MMOServerPlugin       Position: 4.428993, 4.914565
+[Info]    MMOServerPlugin       Position: 4.473588, 4.914565
+[Info]    MMOServerPlugin       Position: 4.523221, 4.914565
+[Info]    MMOServerPlugin       Position: 4.648217, 4.914565
+[Info]    MMOServerPlugin       Position: 4.677403, 4.914565
+[Info]    MMOServerPlugin       Position: 4.70533, 4.914565
+[Info]    MMOServerPlugin       Position: 4.728242, 4.914565
+[Info]    MMOServerPlugin       Position: 4.763305, 4.914565
+[Info]    MMOServerPlugin       Position: 4.808719, 4.914565
+[Info]    MMOServerPlugin       Position: 4.853232, 4.914565
+[Info]    MMOServerPlugin       Position: 4.934441, 4.914565
+[Info]    MMOServerPlugin       Position: 4.892689, 4.914565
+[Info]    MMOServerPlugin       Position: 4.807068, 4.914565
+[Info]    MMOServerPlugin       Position: 4.73032, 4.914565
+[Info]    MMOServerPlugin       Position: 4.673018, 4.914565
+[Info]    MMOServerPlugin       Position: 4.594722, 4.914565
+[Info]    MMOServerPlugin       Position: 4.395257, 4.914565
+[Info]    MMOServerPlugin       Position: 4.345571, 4.914565
+[Info]    MMOServerPlugin       Position: 4.310568, 4.914565
+[Info]    MMOServerPlugin       Position: 4.274336, 4.914565
+[Info]    MMOServerPlugin       Position: 4.242058, 4.914565
+[Info]    MMOServerPlugin       Position: 4.204057, 4.914565
+[Info]    MMOServerPlugin       Position: 4.078814, 4.914565
+[Info]    MMOServerPlugin       Position: 4.027326, 4.914565
+[Info]    MMOServerPlugin       Position: 3.970804, 4.914565
+[Info]    MMOServerPlugin       Position: 3.911665, 4.914565
+[Info]    MMOServerPlugin       Position: 3.829671, 4.914565
+[Info]    MMOServerPlugin       Position: 3.597538, 4.914565
+[Info]    MMOServerPlugin       Position: 3.507709, 4.914565
+[Info]    MMOServerPlugin       Position: 3.453965, 4.914565
+[Info]    MMOServerPlugin       Position: 3.302049, 4.914565
+[Info]    MMOServerPlugin       Position: 3.265782, 4.914565
+[Info]    MMOServerPlugin       Position: 3.209909, 4.914565
+[Info]    MMOServerPlugin       Position: 3.17277, 4.914565
+[Info]    MMOServerPlugin       Position: 3.117818, 4.914565
+[Info]    MMOServerPlugin       Position: 3.043976, 4.914565
+[Info]    MMOServerPlugin       Position: 2.892446, 4.914565
+[Info]    MMOServerPlugin       Position: 2.845741, 4.914565
+[Info]    MMOServerPlugin       Position: 2.795082, 4.914565
+[Info]    MMOServerPlugin       Position: 2.728505, 4.914565
+[Info]    MMOServerPlugin       Position: 2.68839, 4.914565
+[Info]    MMOServerPlugin       Position: 2.628985, 4.914565
+[Info]    MMOServerPlugin       Position: 2.471165, 4.914565
+[Info]    MMOServerPlugin       Position: 2.431787, 4.914565
+[Info]    MMOServerPlugin       Position: 2.366944, 4.914565
+[Info]    MMOServerPlugin       Position: 2.302619, 4.914565
+[Info]    MMOServerPlugin       Position: 2.232907, 4.914565
+[Info]    MMOServerPlugin       Position: 2.060006, 4.914565
+[Info]    MMOServerPlugin       Position: 1.988396, 4.914565
+[Info]    MMOServerPlugin       Position: 1.951416, 4.914565
+[Info]    MMOServerPlugin       Position: 1.891402, 4.914565
+[Info]    MMOServerPlugin       Position: 1.840914, 4.914565
+[Info]    MMOServerPlugin       Position: 1.69032, 4.914565
+[Info]    MMOServerPlugin       Position: 1.631818, 4.914565
+[Info]    MMOServerPlugin       Position: 1.568926, 4.914565
+[Info]    MMOServerPlugin       Position: 1.533934, 4.914565
+[Info]    MMOServerPlugin       Position: 1.478758, 4.914565
+[Info]    MMOServerPlugin       Position: 1.399936, 4.914565
+[Info]    MMOServerPlugin       Position: 1.241098, 4.914565
+[Info]    MMOServerPlugin       Position: 1.203547, 4.914565
+[Info]    MMOServerPlugin       Position: 1.148605, 4.914565
+[Info]    MMOServerPlugin       Position: 1.107502, 4.914565
+[Info]    MMOServerPlugin       Position: 1.043895, 4.914565
+[Info]    MMOServerPlugin       Position: 0.987124, 4.914565
+[Info]    MMOServerPlugin       Position: 0.8042385, 4.914565
+[Info]    MMOServerPlugin       Position: 0.7405987, 4.914565
+[Info]    MMOServerPlugin       Position: 0.705834, 4.914565
+[Info]    MMOServerPlugin       Position: 0.6588287, 4.914565
+[Info]    MMOServerPlugin       Position: 0.608146, 4.914565
+[Info]    MMOServerPlugin       Position: 0.4729474, 4.914565
+[Info]    MMOServerPlugin       Position: 0.4360834, 4.914565
+[Info]    MMOServerPlugin       Position: 0.3954499, 4.914565
+[Info]    MMOServerPlugin       Position: 0.3459449, 4.914565
+[Info]    MMOServerPlugin       Position: 0.2978899, 4.914565
+[Info]    MMOServerPlugin       Position: 0.2628329, 4.914565
+[Info]    MMOServerPlugin       Position: 0.2149502, 4.914565
+[Info]    MMOServerPlugin       Position: 0.08844644, 4.914565
+[Info]    MMOServerPlugin       Position: 0.04872344, 4.914565
+[Info]    MMOServerPlugin       Position: 0.01176669, 4.914565
+[Info]    MMOServerPlugin       Position: -0.02562681, 4.914565
+[Info]    MMOServerPlugin       Position: -0.05971431, 4.914565
+[Info]    MMOServerPlugin       Position: -0.09737957, 4.914565
+[Info]    MMOServerPlugin       Goodbye adventurer, 38
+[Info]    ClientManager         Client [38] disconnected.

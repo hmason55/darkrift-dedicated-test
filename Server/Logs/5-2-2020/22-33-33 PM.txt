@@ -1,0 +1,42 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Info]    MMOServerPlugin       Loading map... 
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.3
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54754.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63356.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:54754|127.0.0.1:63356].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Info]    ClientManager         Client [0] disconnected: ConnectionAborted.
+                                 System.Net.Sockets.SocketException (0x80004005): An established connection was aborted by the software in your host machine
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54761.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64751.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:54761|127.0.0.1:64751].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54767.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60915.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:54767|127.0.0.1:60915].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54770.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60916.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:54770|127.0.0.1:60916].
+[Info]    MMOServerPlugin       Welcome adventurer, 3
+[Warning] ObjectCacheMonitor    1 AutoRecyclingArray objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Warning] ObjectCacheMonitor    1 MessageBuffer objects were finalized last period. This is usually a sign that you are not recycling objects correctly.
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    MMOServerPlugin       Goodbye adventurer, 3
+[Info]    ClientManager         Client [3] disconnected.
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.

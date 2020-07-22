@@ -1,0 +1,34 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 42858
+[Info]    MMOServerPlugin       Spawned enemy 21646
+[Info]    MMOServerPlugin       Spawned enemy 39003
+[Info]    MMOServerPlugin       Spawned enemy 1571
+[Info]    MMOServerPlugin       Spawned enemy 39057
+[Info]    MMOServerPlugin       Spawned enemy 36808
+[Info]    MMOServerPlugin       Spawned enemy 17572
+[Info]    MMOServerPlugin       Spawned enemy 59682
+[Info]    MMOServerPlugin       Spawned enemy 35640
+[Info]    MMOServerPlugin       Spawned enemy 17391
+[Info]    MMOServerPlugin       Spawned enemy 40327
+[Info]    MMOServerPlugin       Spawned enemy 42004
+[Info]    MMOServerPlugin       Spawned enemy 36822
+[Info]    MMOServerPlugin       Spawned enemy 35647
+[Info]    MMOServerPlugin       Spawned enemy 4213
+[Info]    MMOServerPlugin       Spawned enemy 34424
+[Info]    MMOServerPlugin       Spawned enemy 13729
+[Info]    MMOServerPlugin       Spawned enemy 39729
+[Info]    MMOServerPlugin       Spawned enemy 40730
+[Info]    MMOServerPlugin       Spawned enemy 4949
+[Info]    MMOServerPlugin       Spawned enemy 58735
+[Info]    MMOServerPlugin       Spawned enemy 31215
+[Info]    MMOServerPlugin       Spawned enemy 15651
+[Info]    MMOServerPlugin       Spawned enemy 47613
+[Info]    MMOServerPlugin       Spawned enemy 64591
+[Info]    MMOServerPlugin       Spawned enemy 13975
+[Info]    MMOServerPlugin       Spawned enemy 60591
+[Info]    MMOServerPlugin       Spawned enemy 50815
+[Info]    MMOServerPlugin       Spawned enemy 35790

@@ -1,0 +1,61 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 0
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62574.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50466.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:62574|127.0.0.1:50466].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Collider Position: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -4.117618, -0.3166058
+[Info]    MMOServerPlugin       Collider Point: -3.717477, 0.01514304
+[Info]    MMOServerPlugin       Collider Point: -3.216995, 0.1554587
+[Info]    MMOServerPlugin       Collider Point: -2.702711, 0.08007896
+[Info]    MMOServerPlugin       Collider Point: -2.263548, -0.1979619
+[Info]    MMOServerPlugin       Collider Position: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -4.367097, -1.315099
+[Info]    MMOServerPlugin       Collider Point: -4.351511, -0.7955536
+[Info]    MMOServerPlugin       Collider Point: -4.125954, -0.3272646
+[Info]    MMOServerPlugin       Collider Point: -3.729428, 0.008796334
+[Info]    MMOServerPlugin       Collider Point: -3.230494, 0.1545215
+[Info]    MMOServerPlugin       Collider Position: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -2.983057, -2.332453
+[Info]    MMOServerPlugin       Collider Point: -3.500923, -2.287893
+[Info]    MMOServerPlugin       Collider Point: -3.955892, -2.03655
+[Info]    MMOServerPlugin       Collider Point: -4.269297, -1.621884
+[Info]    MMOServerPlugin       Collider Point: -4.386947, -1.115594
+[Info]    MMOServerPlugin       Collider Position: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -2.579909, 0.02692056
+[Info]    MMOServerPlugin       Collider Point: -2.172985, -0.2964725
+[Info]    MMOServerPlugin       Collider Point: -1.932777, -0.7574179
+[Info]    MMOServerPlugin       Collider Point: -1.90082, -1.276214
+[Info]    MMOServerPlugin       Collider Point: -2.082638, -1.763156
+[Info]    MMOServerPlugin       Collider Position: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.13717, -1.09199
+[Info]    MMOServerPlugin       Collider Point: -3.626996, 0.05804074
+[Info]    MMOServerPlugin       Collider Point: -3.116888, 0.1578456
+[Info]    MMOServerPlugin       Collider Point: -2.610288, 0.04154253
+[Info]    MMOServerPlugin       Collider Point: -2.19479, -0.2707587
+[Info]    MMOServerPlugin       Collider Point: -1.942238, -0.7250581
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62583.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64872.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:62583|127.0.0.1:64872].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.

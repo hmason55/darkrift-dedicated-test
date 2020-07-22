@@ -1,0 +1,462 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Loading map... 
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.2
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54802.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56737.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:54802|127.0.0.1:56737].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54828.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58600.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:54828|127.0.0.1:58600].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54836.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51803.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:54836|127.0.0.1:51803].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:54854.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53661.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:54854|127.0.0.1:53661].
+[Info]    MMOServerPlugin       Welcome adventurer, 3
+[Info]    MMOServerPlugin       Goodbye adventurer, 3
+[Info]    ClientManager         Client [3] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64217.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49894.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:64217|127.0.0.1:49894].
+[Info]    MMOServerPlugin       Welcome adventurer, 4
+[Info]    MMOServerPlugin       Goodbye adventurer, 4
+[Info]    ClientManager         Client [4] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64226.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51542.
+[Info]    ClientManager         New client [5] connected [127.0.0.1:64226|127.0.0.1:51542].
+[Info]    MMOServerPlugin       Welcome adventurer, 5
+[Info]    MMOServerPlugin       Goodbye adventurer, 5
+[Info]    ClientManager         Client [5] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64230.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56930.
+[Info]    ClientManager         New client [6] connected [127.0.0.1:64230|127.0.0.1:56930].
+[Info]    MMOServerPlugin       Welcome adventurer, 6
+[Info]    MMOServerPlugin       Goodbye adventurer, 6
+[Info]    ClientManager         Client [6] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64236.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63426.
+[Info]    ClientManager         New client [7] connected [127.0.0.1:64236|127.0.0.1:63426].
+[Info]    MMOServerPlugin       Welcome adventurer, 7
+[Info]    MMOServerPlugin       Goodbye adventurer, 7
+[Info]    ClientManager         Client [7] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64242.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64768.
+[Info]    ClientManager         New client [8] connected [127.0.0.1:64242|127.0.0.1:64768].
+[Info]    MMOServerPlugin       Welcome adventurer, 8
+[Info]    MMOServerPlugin       Goodbye adventurer, 8
+[Info]    ClientManager         Client [8] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64281.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50997.
+[Info]    ClientManager         New client [9] connected [127.0.0.1:64281|127.0.0.1:50997].
+[Info]    MMOServerPlugin       Welcome adventurer, 9
+[Info]    MMOServerPlugin       Goodbye adventurer, 9
+[Info]    ClientManager         Client [9] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64286.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50998.
+[Info]    ClientManager         New client [10] connected [127.0.0.1:64286|127.0.0.1:50998].
+[Info]    MMOServerPlugin       Welcome adventurer, 10
+[Info]    MMOServerPlugin       Goodbye adventurer, 10
+[Info]    ClientManager         Client [10] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64290.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50999.
+[Info]    ClientManager         New client [11] connected [127.0.0.1:64290|127.0.0.1:50999].
+[Info]    MMOServerPlugin       Welcome adventurer, 11
+[Info]    MMOServerPlugin       Goodbye adventurer, 11
+[Info]    ClientManager         Client [11] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64291.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51000.
+[Info]    ClientManager         New client [12] connected [127.0.0.1:64291|127.0.0.1:51000].
+[Info]    MMOServerPlugin       Welcome adventurer, 12
+[Info]    MMOServerPlugin       Goodbye adventurer, 12
+[Info]    ClientManager         Client [12] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64292.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51001.
+[Info]    ClientManager         New client [13] connected [127.0.0.1:64292|127.0.0.1:51001].
+[Info]    MMOServerPlugin       Welcome adventurer, 13
+[Info]    MMOServerPlugin       Goodbye adventurer, 13
+[Info]    ClientManager         Client [13] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64293.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51002.
+[Info]    ClientManager         New client [14] connected [127.0.0.1:64293|127.0.0.1:51002].
+[Info]    MMOServerPlugin       Welcome adventurer, 14
+[Info]    MMOServerPlugin       Goodbye adventurer, 14
+[Info]    ClientManager         Client [14] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64294.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51003.
+[Info]    ClientManager         New client [15] connected [127.0.0.1:64294|127.0.0.1:51003].
+[Info]    MMOServerPlugin       Welcome adventurer, 15
+[Info]    MMOServerPlugin       Goodbye adventurer, 15
+[Info]    ClientManager         Client [15] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64425.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53472.
+[Info]    ClientManager         New client [16] connected [127.0.0.1:64425|127.0.0.1:53472].
+[Info]    MMOServerPlugin       Welcome adventurer, 16
+[Info]    MMOServerPlugin       Goodbye adventurer, 16
+[Info]    ClientManager         Client [16] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64464.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49966.
+[Info]    ClientManager         New client [17] connected [127.0.0.1:64464|127.0.0.1:49966].
+[Info]    MMOServerPlugin       Welcome adventurer, 17
+[Info]    MMOServerPlugin       Goodbye adventurer, 17
+[Info]    ClientManager         Client [17] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64532.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53728.
+[Info]    ClientManager         New client [18] connected [127.0.0.1:64532|127.0.0.1:53728].
+[Info]    MMOServerPlugin       Welcome adventurer, 18
+[Info]    MMOServerPlugin       Goodbye adventurer, 18
+[Info]    ClientManager         Client [18] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64537.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59214.
+[Info]    ClientManager         New client [19] connected [127.0.0.1:64537|127.0.0.1:59214].
+[Info]    MMOServerPlugin       Welcome adventurer, 19
+[Info]    MMOServerPlugin       Goodbye adventurer, 19
+[Info]    ClientManager         Client [19] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64544.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63336.
+[Info]    ClientManager         New client [20] connected [127.0.0.1:64544|127.0.0.1:63336].
+[Info]    MMOServerPlugin       Welcome adventurer, 20
+[Info]    MMOServerPlugin       Goodbye adventurer, 20
+[Info]    ClientManager         Client [20] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64548.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60645.
+[Info]    ClientManager         New client [21] connected [127.0.0.1:64548|127.0.0.1:60645].
+[Info]    MMOServerPlugin       Welcome adventurer, 21
+[Info]    MMOServerPlugin       Goodbye adventurer, 21
+[Info]    ClientManager         Client [21] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64553.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54755.
+[Info]    ClientManager         New client [22] connected [127.0.0.1:64553|127.0.0.1:54755].
+[Info]    MMOServerPlugin       Welcome adventurer, 22
+[Info]    MMOServerPlugin       Goodbye adventurer, 22
+[Info]    ClientManager         Client [22] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64569.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53376.
+[Info]    ClientManager         New client [23] connected [127.0.0.1:64569|127.0.0.1:53376].
+[Info]    MMOServerPlugin       Welcome adventurer, 23
+[Info]    MMOServerPlugin       Goodbye adventurer, 23
+[Info]    ClientManager         Client [23] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64574.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51302.
+[Info]    ClientManager         New client [24] connected [127.0.0.1:64574|127.0.0.1:51302].
+[Info]    MMOServerPlugin       Welcome adventurer, 24
+[Info]    MMOServerPlugin       Goodbye adventurer, 24
+[Info]    ClientManager         Client [24] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64579.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53649.
+[Info]    ClientManager         New client [25] connected [127.0.0.1:64579|127.0.0.1:53649].
+[Info]    MMOServerPlugin       Welcome adventurer, 25
+[Info]    MMOServerPlugin       Goodbye adventurer, 25
+[Info]    ClientManager         Client [25] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64585.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61749.
+[Info]    ClientManager         New client [26] connected [127.0.0.1:64585|127.0.0.1:61749].
+[Info]    MMOServerPlugin       Welcome adventurer, 26
+[Info]    MMOServerPlugin       Goodbye adventurer, 26
+[Info]    ClientManager         Client [26] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64591.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57356.
+[Info]    ClientManager         New client [27] connected [127.0.0.1:64591|127.0.0.1:57356].
+[Info]    MMOServerPlugin       Welcome adventurer, 27
+[Info]    MMOServerPlugin       Goodbye adventurer, 27
+[Info]    ClientManager         Client [27] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64596.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57482.
+[Info]    ClientManager         New client [28] connected [127.0.0.1:64596|127.0.0.1:57482].
+[Info]    MMOServerPlugin       Welcome adventurer, 28
+[Info]    MMOServerPlugin       Goodbye adventurer, 28
+[Info]    ClientManager         Client [28] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64601.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60855.
+[Info]    ClientManager         New client [29] connected [127.0.0.1:64601|127.0.0.1:60855].
+[Info]    MMOServerPlugin       Welcome adventurer, 29
+[Info]    MMOServerPlugin       Goodbye adventurer, 29
+[Info]    ClientManager         Client [29] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64609.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57417.
+[Info]    ClientManager         New client [30] connected [127.0.0.1:64609|127.0.0.1:57417].
+[Info]    MMOServerPlugin       Welcome adventurer, 30
+[Info]    MMOServerPlugin       Goodbye adventurer, 30
+[Info]    ClientManager         Client [30] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64615.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56549.
+[Info]    ClientManager         New client [31] connected [127.0.0.1:64615|127.0.0.1:56549].
+[Info]    MMOServerPlugin       Welcome adventurer, 31
+[Info]    MMOServerPlugin       Goodbye adventurer, 31
+[Info]    ClientManager         Client [31] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64621.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54824.
+[Info]    ClientManager         New client [32] connected [127.0.0.1:64621|127.0.0.1:54824].
+[Info]    MMOServerPlugin       Welcome adventurer, 32
+[Info]    MMOServerPlugin       Goodbye adventurer, 32
+[Info]    ClientManager         Client [32] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64626.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57176.
+[Info]    ClientManager         New client [33] connected [127.0.0.1:64626|127.0.0.1:57176].
+[Info]    MMOServerPlugin       Welcome adventurer, 33
+[Info]    MMOServerPlugin       Goodbye adventurer, 33
+[Info]    ClientManager         Client [33] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64631.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55796.
+[Info]    ClientManager         New client [34] connected [127.0.0.1:64631|127.0.0.1:55796].
+[Info]    MMOServerPlugin       Welcome adventurer, 34
+[Info]    MMOServerPlugin       Goodbye adventurer, 34
+[Info]    ClientManager         Client [34] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64636.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53833.
+[Info]    ClientManager         New client [35] connected [127.0.0.1:64636|127.0.0.1:53833].
+[Info]    MMOServerPlugin       Welcome adventurer, 35
+[Info]    MMOServerPlugin       Goodbye adventurer, 35
+[Info]    ClientManager         Client [35] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64642.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51263.
+[Info]    ClientManager         New client [36] connected [127.0.0.1:64642|127.0.0.1:51263].
+[Info]    MMOServerPlugin       Welcome adventurer, 36
+[Info]    MMOServerPlugin       Goodbye adventurer, 36
+[Info]    ClientManager         Client [36] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64647.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61122.
+[Info]    ClientManager         New client [37] connected [127.0.0.1:64647|127.0.0.1:61122].
+[Info]    MMOServerPlugin       Welcome adventurer, 37
+[Info]    MMOServerPlugin       Goodbye adventurer, 37
+[Info]    ClientManager         Client [37] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64652.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53464.
+[Info]    ClientManager         New client [38] connected [127.0.0.1:64652|127.0.0.1:53464].
+[Info]    MMOServerPlugin       Welcome adventurer, 38
+[Info]    MMOServerPlugin       Goodbye adventurer, 38
+[Info]    ClientManager         Client [38] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64657.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58379.
+[Info]    ClientManager         New client [39] connected [127.0.0.1:64657|127.0.0.1:58379].
+[Info]    MMOServerPlugin       Welcome adventurer, 39
+[Info]    MMOServerPlugin       Goodbye adventurer, 39
+[Info]    ClientManager         Client [39] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64663.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:63636.
+[Info]    ClientManager         New client [40] connected [127.0.0.1:64663|127.0.0.1:63636].
+[Info]    MMOServerPlugin       Welcome adventurer, 40
+[Info]    MMOServerPlugin       Goodbye adventurer, 40
+[Info]    ClientManager         Client [40] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64668.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:62158.
+[Info]    ClientManager         New client [41] connected [127.0.0.1:64668|127.0.0.1:62158].
+[Info]    MMOServerPlugin       Welcome adventurer, 41
+[Info]    MMOServerPlugin       Goodbye adventurer, 41
+[Info]    ClientManager         Client [41] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64677.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53399.
+[Info]    ClientManager         New client [42] connected [127.0.0.1:64677|127.0.0.1:53399].
+[Info]    MMOServerPlugin       Welcome adventurer, 42
+[Info]    MMOServerPlugin       Goodbye adventurer, 42
+[Info]    ClientManager         Client [42] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64682.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65058.
+[Info]    ClientManager         New client [43] connected [127.0.0.1:64682|127.0.0.1:65058].
+[Info]    MMOServerPlugin       Welcome adventurer, 43
+[Info]    MMOServerPlugin       Goodbye adventurer, 43
+[Info]    ClientManager         Client [43] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64687.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58435.
+[Info]    ClientManager         New client [44] connected [127.0.0.1:64687|127.0.0.1:58435].
+[Info]    MMOServerPlugin       Welcome adventurer, 44
+[Info]    MMOServerPlugin       Goodbye adventurer, 44
+[Info]    ClientManager         Client [44] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64694.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51250.
+[Info]    ClientManager         New client [45] connected [127.0.0.1:64694|127.0.0.1:51250].
+[Info]    MMOServerPlugin       Welcome adventurer, 45
+[Info]    MMOServerPlugin       Goodbye adventurer, 45
+[Info]    ClientManager         Client [45] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64704.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57271.
+[Info]    ClientManager         New client [46] connected [127.0.0.1:64704|127.0.0.1:57271].
+[Info]    MMOServerPlugin       Welcome adventurer, 46
+[Info]    MMOServerPlugin       Goodbye adventurer, 46
+[Info]    ClientManager         Client [46] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64710.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60651.
+[Info]    ClientManager         New client [47] connected [127.0.0.1:64710|127.0.0.1:60651].
+[Info]    MMOServerPlugin       Welcome adventurer, 47
+[Info]    MMOServerPlugin       Goodbye adventurer, 47
+[Info]    ClientManager         Client [47] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64715.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51701.
+[Info]    ClientManager         New client [48] connected [127.0.0.1:64715|127.0.0.1:51701].
+[Info]    MMOServerPlugin       Welcome adventurer, 48
+[Info]    MMOServerPlugin       Goodbye adventurer, 48
+[Info]    ClientManager         Client [48] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64720.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64192.
+[Info]    ClientManager         New client [49] connected [127.0.0.1:64720|127.0.0.1:64192].
+[Info]    MMOServerPlugin       Welcome adventurer, 49
+[Info]    MMOServerPlugin       Goodbye adventurer, 49
+[Info]    ClientManager         Client [49] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64725.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54823.
+[Info]    ClientManager         New client [50] connected [127.0.0.1:64725|127.0.0.1:54823].
+[Info]    MMOServerPlugin       Welcome adventurer, 50
+[Info]    MMOServerPlugin       Goodbye adventurer, 50
+[Info]    ClientManager         Client [50] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64730.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58322.
+[Info]    ClientManager         New client [51] connected [127.0.0.1:64730|127.0.0.1:58322].
+[Info]    MMOServerPlugin       Welcome adventurer, 51
+[Info]    MMOServerPlugin       Goodbye adventurer, 51
+[Info]    ClientManager         Client [51] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64750.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64598.
+[Info]    ClientManager         New client [52] connected [127.0.0.1:64750|127.0.0.1:64598].
+[Info]    MMOServerPlugin       Welcome adventurer, 52
+[Info]    MMOServerPlugin       Goodbye adventurer, 52
+[Info]    ClientManager         Client [52] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64755.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64106.
+[Info]    ClientManager         New client [53] connected [127.0.0.1:64755|127.0.0.1:64106].
+[Info]    MMOServerPlugin       Welcome adventurer, 53
+[Info]    MMOServerPlugin       Goodbye adventurer, 53
+[Info]    ClientManager         Client [53] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64769.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52634.
+[Info]    ClientManager         New client [54] connected [127.0.0.1:64769|127.0.0.1:52634].
+[Info]    MMOServerPlugin       Welcome adventurer, 54
+[Info]    MMOServerPlugin       Goodbye adventurer, 54
+[Info]    ClientManager         Client [54] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64774.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51560.
+[Info]    ClientManager         New client [55] connected [127.0.0.1:64774|127.0.0.1:51560].
+[Info]    MMOServerPlugin       Welcome adventurer, 55
+[Info]    MMOServerPlugin       Goodbye adventurer, 55
+[Info]    ClientManager         Client [55] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64779.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56566.
+[Info]    ClientManager         New client [56] connected [127.0.0.1:64779|127.0.0.1:56566].
+[Info]    MMOServerPlugin       Welcome adventurer, 56
+[Info]    MMOServerPlugin       Goodbye adventurer, 56
+[Info]    ClientManager         Client [56] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64786.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51809.
+[Info]    ClientManager         New client [57] connected [127.0.0.1:64786|127.0.0.1:51809].
+[Info]    MMOServerPlugin       Welcome adventurer, 57
+[Info]    MMOServerPlugin       Goodbye adventurer, 57
+[Info]    ClientManager         Client [57] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64791.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65511.
+[Info]    ClientManager         New client [58] connected [127.0.0.1:64791|127.0.0.1:65511].
+[Info]    MMOServerPlugin       Welcome adventurer, 58
+[Info]    MMOServerPlugin       Goodbye adventurer, 58
+[Info]    ClientManager         Client [58] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64796.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57202.
+[Info]    ClientManager         New client [59] connected [127.0.0.1:64796|127.0.0.1:57202].
+[Info]    MMOServerPlugin       Welcome adventurer, 59
+[Info]    MMOServerPlugin       Goodbye adventurer, 59
+[Info]    ClientManager         Client [59] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64801.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:52586.
+[Info]    ClientManager         New client [60] connected [127.0.0.1:64801|127.0.0.1:52586].
+[Info]    MMOServerPlugin       Welcome adventurer, 60
+[Info]    MMOServerPlugin       Goodbye adventurer, 60
+[Info]    ClientManager         Client [60] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64806.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51375.
+[Info]    ClientManager         New client [61] connected [127.0.0.1:64806|127.0.0.1:51375].
+[Info]    MMOServerPlugin       Welcome adventurer, 61
+[Info]    MMOServerPlugin       Goodbye adventurer, 61
+[Info]    ClientManager         Client [61] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64813.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61595.
+[Info]    ClientManager         New client [62] connected [127.0.0.1:64813|127.0.0.1:61595].
+[Info]    MMOServerPlugin       Welcome adventurer, 62
+[Info]    MMOServerPlugin       Goodbye adventurer, 62
+[Info]    ClientManager         Client [62] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64818.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65179.
+[Info]    ClientManager         New client [63] connected [127.0.0.1:64818|127.0.0.1:65179].
+[Info]    MMOServerPlugin       Welcome adventurer, 63
+[Info]    MMOServerPlugin       Goodbye adventurer, 63
+[Info]    ClientManager         Client [63] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64823.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:65230.
+[Info]    ClientManager         New client [64] connected [127.0.0.1:64823|127.0.0.1:65230].
+[Info]    MMOServerPlugin       Welcome adventurer, 64
+[Info]    MMOServerPlugin       Goodbye adventurer, 64
+[Info]    ClientManager         Client [64] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64875.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:50940.
+[Info]    ClientManager         New client [65] connected [127.0.0.1:64875|127.0.0.1:50940].
+[Info]    MMOServerPlugin       Welcome adventurer, 65
+[Info]    MMOServerPlugin       Goodbye adventurer, 65
+[Info]    ClientManager         Client [65] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64877.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51563.
+[Info]    ClientManager         New client [66] connected [127.0.0.1:64877|127.0.0.1:51563].
+[Info]    MMOServerPlugin       Welcome adventurer, 66
+[Info]    MMOServerPlugin       Goodbye adventurer, 66
+[Info]    ClientManager         Client [66] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64882.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56581.
+[Info]    ClientManager         New client [67] connected [127.0.0.1:64882|127.0.0.1:56581].
+[Info]    MMOServerPlugin       Welcome adventurer, 67
+[Info]    MMOServerPlugin       Goodbye adventurer, 67
+[Info]    ClientManager         Client [67] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64935.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57342.
+[Info]    ClientManager         New client [68] connected [127.0.0.1:64935|127.0.0.1:57342].
+[Info]    MMOServerPlugin       Welcome adventurer, 68
+[Info]    MMOServerPlugin       Goodbye adventurer, 68
+[Info]    ClientManager         Client [68] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64941.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:58714.
+[Info]    ClientManager         New client [69] connected [127.0.0.1:64941|127.0.0.1:58714].
+[Info]    MMOServerPlugin       Welcome adventurer, 69
+[Info]    MMOServerPlugin       Goodbye adventurer, 69
+[Info]    ClientManager         Client [69] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64961.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:55772.
+[Info]    ClientManager         New client [70] connected [127.0.0.1:64961|127.0.0.1:55772].
+[Info]    MMOServerPlugin       Welcome adventurer, 70
+[Info]    MMOServerPlugin       Goodbye adventurer, 70
+[Info]    ClientManager         Client [70] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64980.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60459.
+[Info]    ClientManager         New client [71] connected [127.0.0.1:64980|127.0.0.1:60459].
+[Info]    MMOServerPlugin       Welcome adventurer, 71
+[Info]    MMOServerPlugin       Goodbye adventurer, 71
+[Info]    ClientManager         Client [71] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64989.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:56267.
+[Info]    ClientManager         New client [72] connected [127.0.0.1:64989|127.0.0.1:56267].
+[Info]    MMOServerPlugin       Welcome adventurer, 72
+[Info]    MMOServerPlugin       Goodbye adventurer, 72
+[Info]    ClientManager         Client [72] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:64996.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64304.
+[Info]    ClientManager         New client [73] connected [127.0.0.1:64996|127.0.0.1:64304].
+[Info]    MMOServerPlugin       Welcome adventurer, 73
+[Info]    MMOServerPlugin       Goodbye adventurer, 73
+[Info]    ClientManager         Client [73] disconnected.

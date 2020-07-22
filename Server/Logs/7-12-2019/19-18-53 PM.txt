@@ -1,0 +1,28 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 42029, 42029
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:50435.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64965.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:50435|127.0.0.1:64965].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Enemy 42029 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 55455, 55455
+[Info]    MMOServerPlugin       Enemy 55455 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 62649, 62649
+[Info]    MMOServerPlugin       Enemy 62649 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 4417, 4417
+[Info]    MMOServerPlugin       Enemy 4417 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 39636, 39636
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.

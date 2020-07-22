@@ -1,0 +1,1900 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 0
+[Info]    MMOServerPlugin       Spawned enemy 1
+[Info]    MMOServerPlugin       Spawned enemy 2
+[Info]    MMOServerPlugin       Spawned enemy 3
+[Info]    MMOServerPlugin       Spawned enemy 4
+[Info]    MMOServerPlugin       Spawned enemy 5
+[Info]    MMOServerPlugin       Spawned enemy 6
+[Info]    MMOServerPlugin       Spawned enemy 7
+[Info]    MMOServerPlugin       Spawned enemy 8
+[Info]    MMOServerPlugin       Spawned enemy 9
+[Info]    MMOServerPlugin       Spawned enemy 10
+[Info]    MMOServerPlugin       Spawned enemy 11
+[Info]    MMOServerPlugin       Spawned enemy 12
+[Info]    MMOServerPlugin       Spawned enemy 13
+[Info]    MMOServerPlugin       Spawned enemy 14
+[Info]    MMOServerPlugin       Spawned enemy 15
+[Info]    MMOServerPlugin       Spawned enemy 16
+[Info]    MMOServerPlugin       Spawned enemy 17
+[Info]    MMOServerPlugin       Spawned enemy 18
+[Info]    MMOServerPlugin       Spawned enemy 19
+[Info]    MMOServerPlugin       Spawned enemy 20
+[Info]    MMOServerPlugin       Spawned enemy 21
+[Info]    MMOServerPlugin       Spawned enemy 22
+[Info]    MMOServerPlugin       Spawned enemy 23
+[Info]    MMOServerPlugin       Spawned enemy 24
+[Info]    MMOServerPlugin       Spawned enemy 25
+[Info]    MMOServerPlugin       Spawned enemy 26
+[Info]    MMOServerPlugin       Spawned enemy 27
+[Info]    MMOServerPlugin       Spawned enemy 28
+[Info]    MMOServerPlugin       Spawned enemy 29
+[Info]    MMOServerPlugin       Spawned enemy 30
+[Info]    MMOServerPlugin       Spawned enemy 31
+[Info]    MMOServerPlugin       Spawned enemy 32
+[Info]    MMOServerPlugin       Spawned enemy 33
+[Info]    MMOServerPlugin       Spawned enemy 34
+[Info]    MMOServerPlugin       Spawned enemy 35
+[Info]    MMOServerPlugin       Spawned enemy 36
+[Info]    MMOServerPlugin       Spawned enemy 37
+[Info]    MMOServerPlugin       Spawned enemy 38
+[Info]    MMOServerPlugin       Spawned enemy 39
+[Info]    MMOServerPlugin       Spawned enemy 40
+[Info]    MMOServerPlugin       Spawned enemy 41
+[Info]    MMOServerPlugin       Spawned enemy 42
+[Info]    MMOServerPlugin       Spawned enemy 43
+[Info]    MMOServerPlugin       Spawned enemy 44
+[Info]    MMOServerPlugin       Spawned enemy 45
+[Info]    MMOServerPlugin       Spawned enemy 46
+[Info]    MMOServerPlugin       Spawned enemy 47
+[Info]    MMOServerPlugin       Spawned enemy 48
+[Info]    MMOServerPlugin       Spawned enemy 49
+[Info]    MMOServerPlugin       Spawned enemy 50
+[Info]    MMOServerPlugin       Spawned enemy 51
+[Info]    MMOServerPlugin       Spawned enemy 52
+[Info]    MMOServerPlugin       Spawned enemy 53
+[Info]    MMOServerPlugin       Spawned enemy 54
+[Info]    MMOServerPlugin       Spawned enemy 55
+[Info]    MMOServerPlugin       Spawned enemy 56
+[Info]    MMOServerPlugin       Spawned enemy 57
+[Info]    MMOServerPlugin       Spawned enemy 58
+[Info]    MMOServerPlugin       Spawned enemy 59
+[Info]    MMOServerPlugin       Spawned enemy 60
+[Info]    MMOServerPlugin       Spawned enemy 61
+[Info]    MMOServerPlugin       Spawned enemy 62
+[Info]    MMOServerPlugin       Spawned enemy 63
+[Info]    MMOServerPlugin       Spawned enemy 64
+[Info]    MMOServerPlugin       Spawned enemy 65
+[Info]    MMOServerPlugin       Spawned enemy 66
+[Info]    MMOServerPlugin       Spawned enemy 67
+[Info]    MMOServerPlugin       Spawned enemy 68
+[Info]    MMOServerPlugin       Spawned enemy 69
+[Info]    MMOServerPlugin       Spawned enemy 70
+[Info]    MMOServerPlugin       Spawned enemy 71
+[Info]    MMOServerPlugin       Spawned enemy 72
+[Info]    MMOServerPlugin       Spawned enemy 73
+[Info]    MMOServerPlugin       Spawned enemy 74
+[Info]    MMOServerPlugin       Spawned enemy 75
+[Info]    MMOServerPlugin       Spawned enemy 76
+[Info]    MMOServerPlugin       Spawned enemy 77
+[Info]    MMOServerPlugin       Spawned enemy 78
+[Info]    MMOServerPlugin       Spawned enemy 79
+[Info]    MMOServerPlugin       Spawned enemy 80
+[Info]    MMOServerPlugin       Spawned enemy 81
+[Info]    MMOServerPlugin       Spawned enemy 82
+[Info]    MMOServerPlugin       Spawned enemy 83
+[Info]    MMOServerPlugin       Spawned enemy 84
+[Info]    MMOServerPlugin       Spawned enemy 85
+[Info]    MMOServerPlugin       Spawned enemy 86
+[Info]    MMOServerPlugin       Spawned enemy 87
+[Info]    MMOServerPlugin       Spawned enemy 88
+[Info]    MMOServerPlugin       Spawned enemy 89
+[Info]    MMOServerPlugin       Spawned enemy 90
+[Info]    MMOServerPlugin       Spawned enemy 91
+[Info]    MMOServerPlugin       Spawned enemy 92
+[Info]    MMOServerPlugin       Spawned enemy 93
+[Info]    MMOServerPlugin       Spawned enemy 94
+[Info]    MMOServerPlugin       Spawned enemy 95
+[Info]    MMOServerPlugin       Spawned enemy 96
+[Info]    MMOServerPlugin       Spawned enemy 97
+[Info]    MMOServerPlugin       Spawned enemy 98
+[Info]    MMOServerPlugin       Spawned enemy 99
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62902.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60038.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:62902|127.0.0.1:60038].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:62907.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54597.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:62907|127.0.0.1:54597].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Collider Position: 2.708238, -1.501187
+[Info]    MMOServerPlugin       Collider Point: 2.708238, -1.501187
+[Info]    MMOServerPlugin       Collider Point: 3.235161, -0.3676738
+[Info]    MMOServerPlugin       Collider Point: 3.650647, -0.6799898
+[Info]    MMOServerPlugin       Collider Point: 3.903183, -1.134298
+[Info]    MMOServerPlugin       Collider Point: 3.949101, -1.652045
+[Info]    MMOServerPlugin       Collider Point: 3.780463, -2.143708
+[Info]    MMOServerPlugin       Enemy 4 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy Collider: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy 9 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy Collider: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy 18 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy Collider: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy 34 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy Collider: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy 69 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy Collider: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy 71 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy Collider: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy 74 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy Collider: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy 79 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy Collider: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy 82 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy Collider: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy 92 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Enemy Collider: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.737844, -1.770443
+[Info]    MMOServerPlugin       Collider Point: -3.258358, -1.971102
+[Info]    MMOServerPlugin       Collider Point: -2.901941, -2.349437
+[Info]    MMOServerPlugin       Collider Point: -2.730222, -2.840032
+[Info]    MMOServerPlugin       Collider Point: -2.77289, -3.358057
+[Info]    MMOServerPlugin       Enemy 72 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Enemy Collider: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.753633, -1.767562
+[Info]    MMOServerPlugin       Collider Point: -3.27161, -1.962048
+[Info]    MMOServerPlugin       Collider Point: -2.910365, -2.335776
+[Info]    MMOServerPlugin       Collider Point: -2.732361, -2.824125
+[Info]    MMOServerPlugin       Collider Point: -2.768375, -3.342655
+[Info]    MMOServerPlugin       Enemy 72 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Enemy Collider: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Enemy 72 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Enemy Collider: -3.296853, -2.403722
+[Info]    MMOServerPlugin       Enemy 72 was slain.
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.765884, -1.765471
+[Info]    MMOServerPlugin       Collider Point: -3.281952, -1.955154
+[Info]    MMOServerPlugin       Collider Point: -2.917009, -2.325272
+[Info]    MMOServerPlugin       Collider Point: -2.734157, -2.811827
+[Info]    MMOServerPlugin       Collider Point: -2.765014, -3.33069
+[Info]    MMOServerPlugin       Collider Position: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -3.970114, -2.998674
+[Info]    MMOServerPlugin       Collider Point: -2.727476, -2.863204
+[Info]    MMOServerPlugin       Collider Point: -2.779807, -3.380342
+[Info]    MMOServerPlugin       Collider Point: -3.037953, -3.831486
+[Info]    MMOServerPlugin       Collider Point: -3.457278, -4.13863
+[Info]    MMOServerPlugin       Collider Point: -3.965276, -4.248665
+[Info]    MMOServerPlugin       Collider Position: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -3.983076, -3.646169
+[Info]    MMOServerPlugin       Collider Point: -3.887151, -3.135318
+[Info]    MMOServerPlugin       Collider Point: -3.591737, -2.707649
+[Info]    MMOServerPlugin       Collider Point: -3.147914, -2.437109
+[Info]    MMOServerPlugin       Collider Point: -2.632424, -2.370478
+[Info]    MMOServerPlugin       Enemy 59 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Enemy Collider: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Collider Position: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -3.931082, -3.258436
+[Info]    MMOServerPlugin       Collider Point: -3.681947, -2.802254
+[Info]    MMOServerPlugin       Collider Point: -3.268805, -2.486844
+[Info]    MMOServerPlugin       Collider Point: -2.763091, -2.366742
+[Info]    MMOServerPlugin       Collider Point: -2.252249, -2.462716
+[Info]    MMOServerPlugin       Enemy 10 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy Collider: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy 59 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Enemy Collider: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Enemy 91 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Enemy Collider: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Collider Position: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -3.931082, -3.258436
+[Info]    MMOServerPlugin       Collider Point: -3.681947, -2.802254
+[Info]    MMOServerPlugin       Collider Point: -3.268805, -2.486844
+[Info]    MMOServerPlugin       Collider Point: -2.763091, -2.366742
+[Info]    MMOServerPlugin       Collider Point: -2.252249, -2.462716
+[Info]    MMOServerPlugin       Enemy 10 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy Collider: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy 59 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Enemy Collider: -2.869224, -2.68901
+[Info]    MMOServerPlugin       Enemy 59 was slain.
+[Info]    MMOServerPlugin       Enemy 91 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Enemy Collider: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Collider Position: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -2.733431, -3.61639
+[Info]    MMOServerPlugin       Collider Point: -3.80909, -2.979634
+[Info]    MMOServerPlugin       Collider Point: -3.457103, -2.597175
+[Info]    MMOServerPlugin       Collider Point: -2.979986, -2.390947
+[Info]    MMOServerPlugin       Collider Point: -2.460237, -2.396609
+[Info]    MMOServerPlugin       Collider Point: -1.987727, -2.613183
+[Info]    MMOServerPlugin       Enemy 10 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy Collider: -2.559265, -3.31802
+[Info]    MMOServerPlugin       Enemy 10 was slain.
+[Info]    MMOServerPlugin       Enemy 47 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy Collider: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy 77 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy Collider: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy 91 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Enemy Collider: -2.335475, -2.910736
+[Info]    MMOServerPlugin       Enemy 91 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.6331, -3.84106
+[Info]    MMOServerPlugin       Collider Point: -1.6331, -3.84106
+[Info]    MMOServerPlugin       Collider Point: -2.707023, -3.20138
+[Info]    MMOServerPlugin       Collider Point: -2.353996, -2.819879
+[Info]    MMOServerPlugin       Collider Point: -1.876319, -2.61495
+[Info]    MMOServerPlugin       Collider Point: -1.356588, -2.622027
+[Info]    MMOServerPlugin       Collider Point: -0.8846688, -2.839885
+[Info]    MMOServerPlugin       Enemy 47 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy Collider: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy 77 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy Collider: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy 96 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Enemy Collider: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Collider Position: -1.558003, -3.574997
+[Info]    MMOServerPlugin       Collider Point: -1.558003, -3.574997
+[Info]    MMOServerPlugin       Collider Point: -2.630719, -2.933297
+[Info]    MMOServerPlugin       Collider Point: -2.276975, -2.552462
+[Info]    MMOServerPlugin       Collider Point: -1.798914, -2.348432
+[Info]    MMOServerPlugin       Collider Point: -1.279198, -2.356487
+[Info]    MMOServerPlugin       Collider Point: -0.8076887, -2.575233
+[Info]    MMOServerPlugin       Enemy 47 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy Collider: -2.221472, -2.829878
+[Info]    MMOServerPlugin       Enemy 47 was slain.
+[Info]    MMOServerPlugin       Enemy 77 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy Collider: -2.112498, -2.947502
+[Info]    MMOServerPlugin       Enemy 77 was slain.
+[Info]    MMOServerPlugin       Enemy 96 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Enemy Collider: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.955216, -0.1781998
+[Info]    MMOServerPlugin       Collider Point: -2.478519, 0.02899671
+[Info]    MMOServerPlugin       Collider Point: -1.95876, 0.02438998
+[Info]    MMOServerPlugin       Collider Point: -1.485811, -0.1912234
+[Info]    MMOServerPlugin       Collider Point: -1.141447, -0.580562
+[Info]    MMOServerPlugin       Enemy 2 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy Collider: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy 30 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy Collider: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy 32 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Enemy Collider: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Enemy 37 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy Collider: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy 46 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Enemy Collider: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.897269, -2.252614
+[Info]    MMOServerPlugin       Collider Point: -3.269322, -1.889644
+[Info]    MMOServerPlugin       Collider Point: -3.461576, -1.406727
+[Info]    MMOServerPlugin       Collider Point: -3.440789, -0.8873633
+[Info]    MMOServerPlugin       Collider Point: -3.210555, -0.4213562
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy Collider: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy 2 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy Collider: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy 62 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy Collider: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy 81 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Enemy Collider: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.910354, -2.24423
+[Info]    MMOServerPlugin       Collider Point: -3.277865, -1.876663
+[Info]    MMOServerPlugin       Collider Point: -3.464101, -1.391393
+[Info]    MMOServerPlugin       Collider Point: -3.436859, -0.8723285
+[Info]    MMOServerPlugin       Collider Point: -3.200849, -0.4092196
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy Collider: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy 2 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy Collider: -3.405784, -0.7058609
+[Info]    MMOServerPlugin       Enemy 2 was slain.
+[Info]    MMOServerPlugin       Enemy 62 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy Collider: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy 81 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Enemy Collider: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.164241, -2.44424
+[Info]    MMOServerPlugin       Collider Point: -2.677609, -2.362852
+[Info]    MMOServerPlugin       Collider Point: -3.11349, -2.079696
+[Info]    MMOServerPlugin       Collider Point: -3.396518, -1.64373
+[Info]    MMOServerPlugin       Collider Point: -3.477753, -1.130338
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy Collider: -3.269085, -2.143934
+[Info]    MMOServerPlugin       Enemy 0 was slain.
+[Info]    MMOServerPlugin       Enemy 62 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy Collider: -3.353705, -1.805079
+[Info]    MMOServerPlugin       Enemy 62 was slain.
+[Info]    MMOServerPlugin       Enemy 81 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Enemy Collider: -3.272084, -1.956315
+[Info]    MMOServerPlugin       Enemy 81 was slain.
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -1.391926, -2.12385
+[Info]    MMOServerPlugin       Collider Point: -1.84175, -2.38429
+[Info]    MMOServerPlugin       Collider Point: -2.358615, -2.439255
+[Info]    MMOServerPlugin       Collider Point: -2.853151, -2.279239
+[Info]    MMOServerPlugin       Collider Point: -3.239847, -1.931912
+[Info]    MMOServerPlugin       Enemy 60 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Enemy Collider: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Enemy 96 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Enemy Collider: -1.735962, -2.964071
+[Info]    MMOServerPlugin       Enemy 96 was slain.
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -1.239267, -0.4330628
+[Info]    MMOServerPlugin       Collider Point: -1.014584, -0.9017713
+[Info]    MMOServerPlugin       Collider Point: -0.9999664, -1.421345
+[Info]    MMOServerPlugin       Collider Point: -1.197942, -1.901945
+[Info]    MMOServerPlugin       Collider Point: -1.57428, -2.26047
+[Info]    MMOServerPlugin       Enemy 30 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy Collider: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy 60 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Enemy Collider: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Collider Position: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -2.229476, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -1.07163, -0.7248873
+[Info]    MMOServerPlugin       Collider Point: -0.9801357, -1.23655
+[Info]    MMOServerPlugin       Collider Point: -1.104663, -1.741192
+[Info]    MMOServerPlugin       Collider Point: -1.423681, -2.151556
+[Info]    MMOServerPlugin       Collider Point: -1.882028, -2.396685
+[Info]    MMOServerPlugin       Enemy 30 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy Collider: -2.258355, -1.071566
+[Info]    MMOServerPlugin       Enemy 30 was slain.
+[Info]    MMOServerPlugin       Enemy 60 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Enemy Collider: -1.93517, -2.14013
+[Info]    MMOServerPlugin       Enemy 60 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.254376, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -1.254376, -1.195943
+[Info]    MMOServerPlugin       Collider Point: -0.8549808, -0.0114671
+[Info]    MMOServerPlugin       Collider Point: -0.4077405, -0.276319
+[Info]    MMOServerPlugin       Collider Point: -0.1068912, -0.7001823
+[Info]    MMOServerPlugin       Collider Point: -0.004452348, -1.209767
+[Info]    MMOServerPlugin       Collider Point: -0.1181365, -1.716962
+[Info]    MMOServerPlugin       Enemy 16 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy Collider: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy 49 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Enemy Collider: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -2.186348
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -2.186348
+[Info]    MMOServerPlugin       Collider Point: -1.768934, -1.179244
+[Info]    MMOServerPlugin       Collider Point: -1.295294, -0.9651511
+[Info]    MMOServerPlugin       Collider Point: -0.7755231, -0.9622145
+[Info]    MMOServerPlugin       Collider Point: -0.2994943, -1.170942
+[Info]    MMOServerPlugin       Collider Point: 0.05048275, -1.555242
+[Info]    MMOServerPlugin       Enemy 16 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy Collider: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy 25 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Enemy Collider: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -1.595118
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -1.595118
+[Info]    MMOServerPlugin       Collider Point: -1.733166, -0.5626709
+[Info]    MMOServerPlugin       Collider Point: -1.252311, -0.3653173
+[Info]    MMOServerPlugin       Collider Point: -0.7327563, -0.3806075
+[Info]    MMOServerPlugin       Collider Point: -0.2643389, -0.6058974
+[Info]    MMOServerPlugin       Collider Point: 0.07194805, -1.002233
+[Info]    MMOServerPlugin       Enemy 16 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy Collider: -0.7022967, -1.335771
+[Info]    MMOServerPlugin       Enemy 16 was slain.
+[Info]    MMOServerPlugin       Enemy 32 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Enemy Collider: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -0.8982688
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -0.8982688
+[Info]    MMOServerPlugin       Collider Point: -1.44536, 0.2801744
+[Info]    MMOServerPlugin       Collider Point: -0.9300044, 0.3478445
+[Info]    MMOServerPlugin       Collider Point: -0.4316798, 0.2000504
+[Info]    MMOServerPlugin       Collider Point: -0.03655112, -0.1376532
+[Info]    MMOServerPlugin       Collider Point: 0.1870606, -0.606874
+[Info]    MMOServerPlugin       Enemy 11 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy Collider: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy 13 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy Collider: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy 49 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Enemy Collider: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.360885, 0.4809504
+[Info]    MMOServerPlugin       Collider Point: -0.8420321, 0.5119658
+[Info]    MMOServerPlugin       Collider Point: -0.3554211, 0.3292633
+[Info]    MMOServerPlugin       Collider Point: 0.0148083, -0.03556639
+[Info]    MMOServerPlugin       Collider Point: 0.2046402, -0.5194406
+[Info]    MMOServerPlugin       Enemy 11 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy Collider: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy 13 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy Collider: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy 14 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy Collider: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy 49 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Enemy Collider: -1.078423, -0.3505409
+[Info]    MMOServerPlugin       Enemy 49 was slain.
+[Info]    MMOServerPlugin       Enemy 76 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Enemy Collider: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.351956, 0.4833779
+[Info]    MMOServerPlugin       Collider Point: -0.832888, 0.5105516
+[Info]    MMOServerPlugin       Collider Point: -0.3476427, 0.3242522
+[Info]    MMOServerPlugin       Collider Point: 0.019876, -0.04330796
+[Info]    MMOServerPlugin       Collider Point: 0.2061208, -0.5285741
+[Info]    MMOServerPlugin       Enemy 11 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy Collider: -0.6035035, -0.2204869
+[Info]    MMOServerPlugin       Enemy 11 was slain.
+[Info]    MMOServerPlugin       Enemy 13 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy Collider: -0.06973529, -0.5030062
+[Info]    MMOServerPlugin       Enemy 13 was slain.
+[Info]    MMOServerPlugin       Enemy 14 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy Collider: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy 76 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Enemy Collider: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Collider Position: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.028501, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -1.351956, 0.4833779
+[Info]    MMOServerPlugin       Collider Point: -0.832888, 0.5105516
+[Info]    MMOServerPlugin       Collider Point: -0.3476427, 0.3242522
+[Info]    MMOServerPlugin       Collider Point: 0.019876, -0.04330796
+[Info]    MMOServerPlugin       Collider Point: 0.2061208, -0.5285741
+[Info]    MMOServerPlugin       Enemy 14 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy Collider: -0.4351978, 0.09289885
+[Info]    MMOServerPlugin       Enemy 14 was slain.
+[Info]    MMOServerPlugin       Enemy 76 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Enemy Collider: -1.079536, 0.2786067
+[Info]    MMOServerPlugin       Enemy 76 was slain.
+[Info]    MMOServerPlugin       Collider Position: -0.6462985, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.6462985, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.6672707, 0.5257763
+[Info]    MMOServerPlugin       Collider Point: -0.1571083, 0.4262535
+[Info]    MMOServerPlugin       Collider Point: 0.2684687, 0.1278332
+[Info]    MMOServerPlugin       Collider Point: 0.5358741, -0.3178851
+[Info]    MMOServerPlugin       Collider Point: 0.5988712, -0.8338326
+[Info]    MMOServerPlugin       Enemy 1 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy Collider: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy 21 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy Collider: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy 55 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Enemy Collider: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Collider Position: -0.2811675, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.2811675, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.2714159, 0.5259143
+[Info]    MMOServerPlugin       Collider Point: 0.2361464, 0.413883
+[Info]    MMOServerPlugin       Collider Point: 0.6542604, 0.1050932
+[Info]    MMOServerPlugin       Collider Point: 0.9106305, -0.3470626
+[Info]    MMOServerPlugin       Collider Point: 0.9609277, -0.8644026
+[Info]    MMOServerPlugin       Enemy 1 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy Collider: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy 8 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy Collider: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy 21 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy Collider: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy 55 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Enemy Collider: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Enemy 75 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy Collider: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy 78 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Enemy Collider: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Collider Position: -0.2811675, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.2811675, -0.7240477
+[Info]    MMOServerPlugin       Collider Point: -0.2714159, 0.5259143
+[Info]    MMOServerPlugin       Collider Point: 0.2361464, 0.413883
+[Info]    MMOServerPlugin       Collider Point: 0.6542604, 0.1050932
+[Info]    MMOServerPlugin       Collider Point: 0.9106305, -0.3470626
+[Info]    MMOServerPlugin       Collider Point: 0.9609277, -0.8644026
+[Info]    MMOServerPlugin       Enemy 1 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy Collider: -0.4678006, 0.344085
+[Info]    MMOServerPlugin       Enemy 1 was slain.
+[Info]    MMOServerPlugin       Enemy 8 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy Collider: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy 21 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy Collider: 0.09973192, -0.0752399
+[Info]    MMOServerPlugin       Enemy 21 was slain.
+[Info]    MMOServerPlugin       Enemy 55 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Enemy Collider: 0.1317191, -0.5195756
+[Info]    MMOServerPlugin       Enemy 55 was slain.
+[Info]    MMOServerPlugin       Enemy 75 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy Collider: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy 78 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Enemy Collider: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Collider Position: 0.6213821, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 0.6213821, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 1.523562, -1.030737
+[Info]    MMOServerPlugin       Collider Point: 1.797473, -1.472487
+[Info]    MMOServerPlugin       Collider Point: 1.868027, -1.987456
+[Info]    MMOServerPlugin       Collider Point: 1.723025, -2.4866
+[Info]    MMOServerPlugin       Collider Point: 1.387539, -2.883613
+[Info]    MMOServerPlugin       Enemy 25 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Enemy Collider: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Enemy 44 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy Collider: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy 50 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy Collider: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy 53 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy Collider: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy 68 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Enemy Collider: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Enemy 75 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy Collider: 0.63135, -1.813328
+[Info]    MMOServerPlugin       Enemy 75 was slain.
+[Info]    MMOServerPlugin       Enemy 78 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Enemy Collider: 0.7253919, -1.563443
+[Info]    MMOServerPlugin       Enemy 78 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.6560406, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 0.6560406, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 1.5576, -1.03009
+[Info]    MMOServerPlugin       Collider Point: 1.831827, -1.471643
+[Info]    MMOServerPlugin       Collider Point: 1.902751, -1.986561
+[Info]    MMOServerPlugin       Collider Point: 1.758107, -2.485809
+[Info]    MMOServerPlugin       Collider Point: 1.422906, -2.883063
+[Info]    MMOServerPlugin       Enemy 25 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Enemy Collider: -0.1483986, -2.417374
+[Info]    MMOServerPlugin       Enemy 25 was slain.
+[Info]    MMOServerPlugin       Enemy 44 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy Collider: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy 50 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy Collider: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy 53 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy Collider: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy 68 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Enemy Collider: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Collider Position: 0.6560406, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 0.6560406, -1.895937
+[Info]    MMOServerPlugin       Collider Point: 1.5576, -1.03009
+[Info]    MMOServerPlugin       Collider Point: 1.831827, -1.471643
+[Info]    MMOServerPlugin       Collider Point: 1.902751, -1.986561
+[Info]    MMOServerPlugin       Collider Point: 1.758107, -2.485809
+[Info]    MMOServerPlugin       Collider Point: 1.422906, -2.883063
+[Info]    MMOServerPlugin       Enemy 44 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy Collider: -0.04362106, -2.475856
+[Info]    MMOServerPlugin       Enemy 44 was slain.
+[Info]    MMOServerPlugin       Enemy 50 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy Collider: 0.648633, -3.163659
+[Info]    MMOServerPlugin       Enemy 50 was slain.
+[Info]    MMOServerPlugin       Enemy 53 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy Collider: 1.44211, -2.265374
+[Info]    MMOServerPlugin       Enemy 53 was slain.
+[Info]    MMOServerPlugin       Enemy 68 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Enemy Collider: 1.15228, -2.407809
+[Info]    MMOServerPlugin       Enemy 68 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.153149, -2.319368
+[Info]    MMOServerPlugin       Collider Point: 1.153149, -2.319368
+[Info]    MMOServerPlugin       Collider Point: 2.046337, -1.444889
+[Info]    MMOServerPlugin       Collider Point: 2.3248, -1.883784
+[Info]    MMOServerPlugin       Collider Point: 2.400673, -2.397996
+[Info]    MMOServerPlugin       Collider Point: 2.260839, -2.898612
+[Info]    MMOServerPlugin       Collider Point: 1.929474, -3.299072
+[Info]    MMOServerPlugin       Enemy 69 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy Collider: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy 88 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Enemy Collider: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Collider Position: 1.171459, -2.631749
+[Info]    MMOServerPlugin       Collider Point: 1.171459, -2.631749
+[Info]    MMOServerPlugin       Collider Point: 1.840383, -1.575794
+[Info]    MMOServerPlugin       Collider Point: 2.212047, -1.939162
+[Info]    MMOServerPlugin       Collider Point: 2.403784, -2.422284
+[Info]    MMOServerPlugin       Collider Point: 2.38244, -2.941625
+[Info]    MMOServerPlugin       Collider Point: 2.151707, -3.407385
+[Info]    MMOServerPlugin       Enemy 69 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy Collider: 2.071064, -2.365304
+[Info]    MMOServerPlugin       Enemy 69 was slain.
+[Info]    MMOServerPlugin       Enemy 88 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Enemy Collider: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Collider Position: 1.171459, -2.037871
+[Info]    MMOServerPlugin       Collider Point: 1.171459, -2.037871
+[Info]    MMOServerPlugin       Collider Point: 1.850474, -0.9883761
+[Info]    MMOServerPlugin       Collider Point: 2.218637, -1.35529
+[Info]    MMOServerPlugin       Collider Point: 2.405735, -1.840228
+[Info]    MMOServerPlugin       Collider Point: 2.379415, -2.359341
+[Info]    MMOServerPlugin       Collider Point: 2.144228, -2.822868
+[Info]    MMOServerPlugin       Enemy 88 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Enemy Collider: 2.071217, -3.293875
+[Info]    MMOServerPlugin       Enemy 88 was slain.
+[Info]    MMOServerPlugin       Enemy 94 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Enemy Collider: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Collider Position: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 1.840378, -0.7253429
+[Info]    MMOServerPlugin       Collider Point: 2.212043, -1.088709
+[Info]    MMOServerPlugin       Collider Point: 2.403783, -1.571831
+[Info]    MMOServerPlugin       Collider Point: 2.382442, -2.091172
+[Info]    MMOServerPlugin       Collider Point: 2.151711, -2.556933
+[Info]    MMOServerPlugin       Enemy 29 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy Collider: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy 79 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy Collider: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy 94 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Enemy Collider: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Collider Position: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 1.840378, -0.7253429
+[Info]    MMOServerPlugin       Collider Point: 2.212043, -1.088709
+[Info]    MMOServerPlugin       Collider Point: 2.403783, -1.571831
+[Info]    MMOServerPlugin       Collider Point: 2.382442, -2.091172
+[Info]    MMOServerPlugin       Collider Point: 2.151711, -2.556933
+[Info]    MMOServerPlugin       Enemy 29 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy Collider: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy 79 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy Collider: 2.170821, -1.392822
+[Info]    MMOServerPlugin       Enemy 79 was slain.
+[Info]    MMOServerPlugin       Enemy 94 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Enemy Collider: 1.612318, -1.417982
+[Info]    MMOServerPlugin       Enemy 94 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 1.171459, -1.781301
+[Info]    MMOServerPlugin       Collider Point: 0.9314238, -0.5545641
+[Info]    MMOServerPlugin       Collider Point: 1.451135, -0.5629901
+[Info]    MMOServerPlugin       Collider Point: 1.922487, -0.7820731
+[Info]    MMOServerPlugin       Collider Point: 2.26398, -1.173932
+[Info]    MMOServerPlugin       Collider Point: 2.416566, -1.67081
+[Info]    MMOServerPlugin       Enemy 29 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy Collider: 1.231055, -0.8041792
+[Info]    MMOServerPlugin       Enemy 29 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.21179, -1.369289
+[Info]    MMOServerPlugin       Collider Point: 1.21179, -1.369289
+[Info]    MMOServerPlugin       Collider Point: 0.9823582, -0.1405246
+[Info]    MMOServerPlugin       Collider Point: 1.501977, -0.1534387
+[Info]    MMOServerPlugin       Collider Point: 1.97142, -0.3765841
+[Info]    MMOServerPlugin       Collider Point: 2.309515, -0.7713772
+[Info]    MMOServerPlugin       Collider Point: 2.457805, -1.269555
+[Info]    MMOServerPlugin       Enemy 9 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy Collider: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy 18 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy Collider: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy 24 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy Collider: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy 66 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy Collider: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy 99 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Enemy Collider: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Collider Position: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.055393, 0.2727828
+[Info]    MMOServerPlugin       Collider Point: 1.574702, 0.2506992
+[Info]    MMOServerPlugin       Collider Point: 2.040133, 0.01930243
+[Info]    MMOServerPlugin       Collider Point: 2.371208, -0.3813969
+[Info]    MMOServerPlugin       Collider Point: 2.510681, -0.8821141
+[Info]    MMOServerPlugin       Enemy 9 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy Collider: 2.295775, -1.220419
+[Info]    MMOServerPlugin       Enemy 9 was slain.
+[Info]    MMOServerPlugin       Enemy 18 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy Collider: 2.299629, -1.688607
+[Info]    MMOServerPlugin       Enemy 18 was slain.
+[Info]    MMOServerPlugin       Enemy 24 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy Collider: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy 27 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy Collider: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy 64 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy Collider: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy 66 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy Collider: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy 99 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Enemy Collider: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Collider Position: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.063053, 0.2740493
+[Info]    MMOServerPlugin       Collider Point: 1.582216, 0.2487403
+[Info]    MMOServerPlugin       Collider Point: 2.046201, 0.01445687
+[Info]    MMOServerPlugin       Collider Point: 2.37478, -0.3882913
+[Info]    MMOServerPlugin       Collider Point: 2.51114, -0.8898652
+[Info]    MMOServerPlugin       Enemy 24 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy Collider: 1.35045, -0.5233293
+[Info]    MMOServerPlugin       Enemy 24 was slain.
+[Info]    MMOServerPlugin       Enemy 27 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy Collider: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy 64 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy Collider: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy 66 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy Collider: 1.789847, -0.6700201
+[Info]    MMOServerPlugin       Enemy 66 was slain.
+[Info]    MMOServerPlugin       Enemy 99 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Enemy Collider: 1.74199, -0.6455398
+[Info]    MMOServerPlugin       Enemy 99 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.2631, -0.9598395
+[Info]    MMOServerPlugin       Collider Point: 1.063053, 0.2740493
+[Info]    MMOServerPlugin       Collider Point: 1.582216, 0.2487403
+[Info]    MMOServerPlugin       Collider Point: 2.046201, 0.01445687
+[Info]    MMOServerPlugin       Collider Point: 2.37478, -0.3882913
+[Info]    MMOServerPlugin       Collider Point: 2.51114, -0.8898652
+[Info]    MMOServerPlugin       Enemy 27 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy Collider: 2.101727, -0.6712887
+[Info]    MMOServerPlugin       Enemy 27 was slain.
+[Info]    MMOServerPlugin       Enemy 64 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy Collider: 2.003849, -0.4208109
+[Info]    MMOServerPlugin       Enemy 64 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.2631, -0.3892257
+[Info]    MMOServerPlugin       Collider Point: 1.2631, -0.3892257
+[Info]    MMOServerPlugin       Collider Point: 1.066665, 0.8452432
+[Info]    MMOServerPlugin       Collider Point: 1.585752, 0.8184148
+[Info]    MMOServerPlugin       Collider Point: 2.049049, 0.5827745
+[Info]    MMOServerPlugin       Collider Point: 2.376448, 0.1790664
+[Info]    MMOServerPlugin       Collider Point: 2.511339, -0.3229044
+[Info]    MMOServerPlugin       Enemy 84 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Enemy Collider: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Collider Position: 1.923908, 0.1715259
+[Info]    MMOServerPlugin       Collider Point: 1.923908, 0.1715259
+[Info]    MMOServerPlugin       Collider Point: 1.690646, 1.399569
+[Info]    MMOServerPlugin       Collider Point: 2.210302, 1.388275
+[Info]    MMOServerPlugin       Collider Point: 2.680439, 1.166594
+[Info]    MMOServerPlugin       Collider Point: 3.019764, 0.7728574
+[Info]    MMOServerPlugin       Collider Point: 3.169605, 0.2751448
+[Info]    MMOServerPlugin       Enemy 40 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy Collider: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy 67 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy Collider: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy 84 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Enemy Collider: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Enemy 90 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Enemy Collider: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Collider Position: 2.211722, 0.4542657
+[Info]    MMOServerPlugin       Collider Point: 2.211722, 0.4542657
+[Info]    MMOServerPlugin       Collider Point: 1.976842, 1.682
+[Info]    MMOServerPlugin       Collider Point: 2.496513, 1.671391
+[Info]    MMOServerPlugin       Collider Point: 2.966941, 1.45033
+[Info]    MMOServerPlugin       Collider Point: 3.306785, 1.05704
+[Info]    MMOServerPlugin       Collider Point: 3.457283, 0.5595257
+[Info]    MMOServerPlugin       Enemy 5 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy Collider: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy 15 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy Collider: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy 40 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy Collider: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy 52 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy Collider: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy 67 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy Collider: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy 84 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Enemy Collider: 1.482883, 0.1080649
+[Info]    MMOServerPlugin       Enemy 84 was slain.
+[Info]    MMOServerPlugin       Enemy 86 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy Collider: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy 90 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Enemy Collider: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.703892, 1.744894
+[Info]    MMOServerPlugin       Collider Point: 3.194398, 1.572924
+[Info]    MMOServerPlugin       Collider Point: 3.572552, 1.216314
+[Info]    MMOServerPlugin       Collider Point: 3.772966, 0.7367258
+[Info]    MMOServerPlugin       Collider Point: 3.760987, 0.2170847
+[Info]    MMOServerPlugin       Enemy 5 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy Collider: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy 15 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy Collider: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy 23 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy Collider: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy 40 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy Collider: 2.532503, 0.7145176
+[Info]    MMOServerPlugin       Enemy 40 was slain.
+[Info]    MMOServerPlugin       Enemy 52 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy Collider: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy 67 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy Collider: 2.444036, 0.6609812
+[Info]    MMOServerPlugin       Enemy 67 was slain.
+[Info]    MMOServerPlugin       Enemy 86 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy Collider: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy 90 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Enemy Collider: 2.554442, 0.8036604
+[Info]    MMOServerPlugin       Enemy 90 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.97716, 1.67786
+[Info]    MMOServerPlugin       Collider Point: 3.416776, 1.400537
+[Info]    MMOServerPlugin       Collider Point: 3.705588, 0.9683815
+[Info]    MMOServerPlugin       Collider Point: 3.793657, 0.4561175
+[Info]    MMOServerPlugin       Collider Point: 3.665756, -0.04767966
+[Info]    MMOServerPlugin       Enemy 5 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy Collider: 3.057768, 0.8484569
+[Info]    MMOServerPlugin       Enemy 5 was slain.
+[Info]    MMOServerPlugin       Enemy 15 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy Collider: 3.278716, 0.06376982
+[Info]    MMOServerPlugin       Enemy 15 was slain.
+[Info]    MMOServerPlugin       Enemy 23 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy Collider: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy 86 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy Collider: 2.817593, 0.7574186
+[Info]    MMOServerPlugin       Enemy 86 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 3.005631, 1.666963
+[Info]    MMOServerPlugin       Collider Point: 3.438354, 1.379002
+[Info]    MMOServerPlugin       Collider Point: 3.716541, 0.939932
+[Info]    MMOServerPlugin       Collider Point: 3.792091, 0.4256728
+[Info]    MMOServerPlugin       Collider Point: 3.651942, -0.07485551
+[Info]    MMOServerPlugin       Enemy 23 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy Collider: 3.480078, 0.1501558
+[Info]    MMOServerPlugin       Enemy 23 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 0.5050834
+[Info]    MMOServerPlugin       Collider Point: 3.005631, 1.666963
+[Info]    MMOServerPlugin       Collider Point: 3.438354, 1.379002
+[Info]    MMOServerPlugin       Collider Point: 3.716541, 0.939932
+[Info]    MMOServerPlugin       Collider Point: 3.792091, 0.4256728
+[Info]    MMOServerPlugin       Collider Point: 3.651942, -0.07485551
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 0.9034652
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 0.9034652
+[Info]    MMOServerPlugin       Collider Point: 1.294705, 0.8885612
+[Info]    MMOServerPlugin       Collider Point: 1.396704, 1.398234
+[Info]    MMOServerPlugin       Collider Point: 1.697187, 1.822357
+[Info]    MMOServerPlugin       Collider Point: 2.144198, 2.087596
+[Info]    MMOServerPlugin       Collider Point: 2.660445, 2.148087
+[Info]    MMOServerPlugin       Enemy 52 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy Collider: 1.870706, 1.578299
+[Info]    MMOServerPlugin       Enemy 52 was slain.
+[Info]    MMOServerPlugin       Enemy 97 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Enemy Collider: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 1.702592
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 1.702592
+[Info]    MMOServerPlugin       Collider Point: 1.78445, 0.7102987
+[Info]    MMOServerPlugin       Collider Point: 1.446568, 1.105274
+[Info]    MMOServerPlugin       Collider Point: 1.298548, 1.603532
+[Info]    MMOServerPlugin       Collider Point: 1.365985, 2.118918
+[Info]    MMOServerPlugin       Collider Point: 1.637218, 2.562317
+[Info]    MMOServerPlugin       Enemy 80 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy Collider: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy 97 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Enemy Collider: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.762527, 3.315535
+[Info]    MMOServerPlugin       Collider Point: 3.244323, 3.12049
+[Info]    MMOServerPlugin       Collider Point: 3.605134, 2.746343
+[Info]    MMOServerPlugin       Collider Point: 3.782571, 2.257787
+[Info]    MMOServerPlugin       Collider Point: 3.745955, 1.7393
+[Info]    MMOServerPlugin       Enemy 26 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy Collider: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy 31 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy Collider: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy 41 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy Collider: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy 58 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy Collider: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy 61 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy Collider: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy 98 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Enemy Collider: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 3.792796, 2.152113
+[Info]    MMOServerPlugin       Collider Point: 3.712315, 1.638603
+[Info]    MMOServerPlugin       Collider Point: 3.429928, 1.202222
+[Info]    MMOServerPlugin       Collider Point: 2.994462, 0.9184257
+[Info]    MMOServerPlugin       Collider Point: 2.481215, 0.8362846
+[Info]    MMOServerPlugin       Enemy 26 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy Collider: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy 61 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy Collider: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy 98 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Enemy Collider: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 3.783448, 1.917955
+[Info]    MMOServerPlugin       Collider Point: 3.608534, 1.428491
+[Info]    MMOServerPlugin       Collider Point: 3.249659, 1.052486
+[Info]    MMOServerPlugin       Collider Point: 2.768876, 0.854957
+[Info]    MMOServerPlugin       Collider Point: 2.249316, 0.8700573
+[Info]    MMOServerPlugin       Enemy 26 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy Collider: 3.390167, 1.276059
+[Info]    MMOServerPlugin       Enemy 26 was slain.
+[Info]    MMOServerPlugin       Enemy 61 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy Collider: 3.206219, 1.642011
+[Info]    MMOServerPlugin       Enemy 61 was slain.
+[Info]    MMOServerPlugin       Enemy 98 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Enemy Collider: 3.006361, 1.866734
+[Info]    MMOServerPlugin       Enemy 98 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.544616, 2.084676
+[Info]    MMOServerPlugin       Collider Point: 2.367099, 0.8473448
+[Info]    MMOServerPlugin       Collider Point: 1.879179, 1.02652
+[Info]    MMOServerPlugin       Collider Point: 1.506318, 1.388661
+[Info]    MMOServerPlugin       Collider Point: 1.312989, 1.871148
+[Info]    MMOServerPlugin       Collider Point: 1.332619, 2.390557
+[Info]    MMOServerPlugin       Enemy 80 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy Collider: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy 97 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Enemy Collider: 0.6022873, 0.9901624
+[Info]    MMOServerPlugin       Enemy 97 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.273286, 2.16103
+[Info]    MMOServerPlugin       Collider Point: 2.273286, 2.16103
+[Info]    MMOServerPlugin       Collider Point: 1.653826, 1.075318
+[Info]    MMOServerPlugin       Collider Point: 1.265782, 1.421139
+[Info]    MMOServerPlugin       Collider Point: 1.051945, 1.894895
+[Info]    MMOServerPlugin       Collider Point: 1.049289, 2.414667
+[Info]    MMOServerPlugin       Collider Point: 1.258273, 2.890584
+[Info]    MMOServerPlugin       Enemy 41 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy Collider: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy 45 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Enemy Collider: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Enemy 80 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy Collider: 0.5182128, 1.21884
+[Info]    MMOServerPlugin       Enemy 80 was slain.
+[Info]    MMOServerPlugin       Collider Position: 1.654435, 2.335178
+[Info]    MMOServerPlugin       Collider Point: 1.654435, 2.335178
+[Info]    MMOServerPlugin       Collider Point: 1.032985, 1.250604
+[Info]    MMOServerPlugin       Collider Point: 0.6455767, 1.597137
+[Info]    MMOServerPlugin       Collider Point: 0.4326086, 2.071283
+[Info]    MMOServerPlugin       Collider Point: 0.4309053, 2.59106
+[Info]    MMOServerPlugin       Collider Point: 0.6407615, 3.066592
+[Info]    MMOServerPlugin       Enemy 12 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy Collider: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy 17 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy Collider: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy 35 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Enemy Collider: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Enemy 45 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Enemy Collider: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Collider Position: 1.440776, 1.743833
+[Info]    MMOServerPlugin       Collider Point: 1.440776, 1.743833
+[Info]    MMOServerPlugin       Collider Point: 0.813353, 0.6627036
+[Info]    MMOServerPlugin       Collider Point: 0.4278618, 1.011368
+[Info]    MMOServerPlugin       Collider Point: 0.2175125, 1.486682
+[Info]    MMOServerPlugin       Collider Point: 0.2186767, 2.00646
+[Info]    MMOServerPlugin       Collider Point: 0.4311529, 2.480827
+[Info]    MMOServerPlugin       Enemy 8 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy Collider: -0.3010364, 0.3699555
+[Info]    MMOServerPlugin       Enemy 8 was slain.
+[Info]    MMOServerPlugin       Enemy 12 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy Collider: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy 17 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy Collider: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy 22 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy Collider: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy 35 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Enemy Collider: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Collider Position: 0.6716461, 1.304805
+[Info]    MMOServerPlugin       Collider Point: 0.6716461, 1.304805
+[Info]    MMOServerPlugin       Collider Point: 0.04536641, 0.2230132
+[Info]    MMOServerPlugin       Collider Point: -0.3404933, 0.5712698
+[Info]    MMOServerPlugin       Collider Point: -0.5513449, 1.046361
+[Info]    MMOServerPlugin       Collider Point: -0.5507303, 1.56614
+[Info]    MMOServerPlugin       Collider Point: -0.3387557, 2.040732
+[Info]    MMOServerPlugin       Enemy 22 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy Collider: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy 35 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Enemy Collider: -0.23597, 1.440156
+[Info]    MMOServerPlugin       Enemy 35 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.258911, 0.8706101
+[Info]    MMOServerPlugin       Collider Point: 0.258911, 0.8706101
+[Info]    MMOServerPlugin       Collider Point: -0.3664803, -0.2116956
+[Info]    MMOServerPlugin       Collider Point: -0.7526258, 0.1362441
+[Info]    MMOServerPlugin       Collider Point: -0.9638674, 0.6111625
+[Info]    MMOServerPlugin       Collider Point: -0.9636794, 1.130942
+[Info]    MMOServerPlugin       Collider Point: -0.7520945, 1.605707
+[Info]    MMOServerPlugin       Enemy 22 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy Collider: -0.5597794, 1.102456
+[Info]    MMOServerPlugin       Enemy 22 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.258911, 0.8706101
+[Info]    MMOServerPlugin       Collider Point: 0.258911, 0.8706101
+[Info]    MMOServerPlugin       Collider Point: -0.3664803, -0.2116956
+[Info]    MMOServerPlugin       Collider Point: -0.7526258, 0.1362441
+[Info]    MMOServerPlugin       Collider Point: -0.9638674, 0.6111625
+[Info]    MMOServerPlugin       Collider Point: -0.9636794, 1.130942
+[Info]    MMOServerPlugin       Collider Point: -0.7520945, 1.605707
+[Info]    MMOServerPlugin       Collider Position: -0.611711, 1.115608
+[Info]    MMOServerPlugin       Collider Point: -0.611711, 1.115608
+[Info]    MMOServerPlugin       Collider Point: -1.834229, 0.854939
+[Info]    MMOServerPlugin       Collider Point: -1.834561, 1.374718
+[Info]    MMOServerPlugin       Collider Point: -1.623451, 1.849695
+[Info]    MMOServerPlugin       Collider Point: -1.237401, 2.197741
+[Info]    MMOServerPlugin       Collider Point: -0.7431642, 2.358677
+[Info]    MMOServerPlugin       Enemy 51 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy Collider: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy 70 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy Collider: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy 93 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy Collider: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy 95 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Enemy Collider: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Collider Position: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -2.107713, 2.136867
+[Info]    MMOServerPlugin       Collider Point: -1.680636, 2.433137
+[Info]    MMOServerPlugin       Collider Point: -1.169979, 2.530086
+[Info]    MMOServerPlugin       Collider Point: -0.6640369, 2.410949
+[Info]    MMOServerPlugin       Collider Point: -0.2502935, 2.096328
+[Info]    MMOServerPlugin       Enemy 7 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy Collider: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy 12 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy Collider: -0.5639822, 2.048559
+[Info]    MMOServerPlugin       Enemy 12 was slain.
+[Info]    MMOServerPlugin       Enemy 43 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy Collider: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy 48 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy Collider: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy 51 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy Collider: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy 70 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy Collider: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy 93 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy Collider: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy 95 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Enemy Collider: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Collider Position: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -2.026962, 2.215308
+[Info]    MMOServerPlugin       Collider Point: -1.574962, 2.471952
+[Info]    MMOServerPlugin       Collider Point: -1.057652, 2.522563
+[Info]    MMOServerPlugin       Collider Point: -0.5644814, 2.35839
+[Info]    MMOServerPlugin       Collider Point: -0.1807227, 2.007819
+[Info]    MMOServerPlugin       Enemy 7 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy Collider: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy 43 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy Collider: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy 51 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy Collider: -1.804325, 1.924201
+[Info]    MMOServerPlugin       Enemy 51 was slain.
+[Info]    MMOServerPlugin       Enemy 70 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy Collider: -1.399437, 1.876611
+[Info]    MMOServerPlugin       Enemy 70 was slain.
+[Info]    MMOServerPlugin       Enemy 93 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy Collider: -1.364458, 1.978348
+[Info]    MMOServerPlugin       Enemy 93 was slain.
+[Info]    MMOServerPlugin       Enemy 95 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Enemy Collider: -1.640031, 1.862168
+[Info]    MMOServerPlugin       Enemy 95 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -2.026962, 2.215308
+[Info]    MMOServerPlugin       Collider Point: -1.574962, 2.471952
+[Info]    MMOServerPlugin       Collider Point: -1.057652, 2.522563
+[Info]    MMOServerPlugin       Collider Point: -0.5644814, 2.35839
+[Info]    MMOServerPlugin       Collider Point: -0.1807227, 2.007819
+[Info]    MMOServerPlugin       Enemy 7 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy Collider: -2.17618, 2.357109
+[Info]    MMOServerPlugin       Enemy 7 was slain.
+[Info]    MMOServerPlugin       Enemy 43 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy Collider: -0.8788962, 2.205762
+[Info]    MMOServerPlugin       Enemy 43 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -1.197254, 1.280383
+[Info]    MMOServerPlugin       Collider Point: -2.026962, 2.215308
+[Info]    MMOServerPlugin       Collider Point: -1.574962, 2.471952
+[Info]    MMOServerPlugin       Collider Point: -1.057652, 2.522563
+[Info]    MMOServerPlugin       Collider Point: -0.5644814, 2.35839
+[Info]    MMOServerPlugin       Collider Point: -0.1807227, 2.007819
+[Info]    MMOServerPlugin       Collider Position: -1.240335, 1.821448
+[Info]    MMOServerPlugin       Collider Point: -1.240335, 1.821448
+[Info]    MMOServerPlugin       Collider Point: -2.44994, 1.506243
+[Info]    MMOServerPlugin       Collider Point: -2.47357, 2.025484
+[Info]    MMOServerPlugin       Collider Point: -2.283962, 2.509447
+[Info]    MMOServerPlugin       Collider Point: -1.913902, 2.874447
+[Info]    MMOServerPlugin       Collider Point: -1.427375, 3.057375
+[Info]    MMOServerPlugin       Enemy 20 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy Collider: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy 42 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy Collider: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy 48 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy Collider: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy 57 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy Collider: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy 87 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy Collider: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy 89 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Enemy Collider: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Collider Position: -1.573166, 2.221411
+[Info]    MMOServerPlugin       Collider Point: -1.573166, 2.221411
+[Info]    MMOServerPlugin       Collider Point: -2.341608, 1.235512
+[Info]    MMOServerPlugin       Collider Point: -2.676174, 1.633301
+[Info]    MMOServerPlugin       Collider Point: -2.820019, 2.13278
+[Info]    MMOServerPlugin       Collider Point: -2.748273, 2.647584
+[Info]    MMOServerPlugin       Collider Point: -2.47334, 3.088698
+[Info]    MMOServerPlugin       Enemy 3 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy Collider: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy 42 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy Collider: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy 48 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy Collider: -2.851856, 1.310408
+[Info]    MMOServerPlugin       Enemy 48 was slain.
+[Info]    MMOServerPlugin       Enemy 87 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy Collider: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy 89 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Enemy Collider: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Collider Position: -1.573166, 2.221411
+[Info]    MMOServerPlugin       Collider Point: -1.573166, 2.221411
+[Info]    MMOServerPlugin       Collider Point: -1.241873, 1.016112
+[Info]    MMOServerPlugin       Collider Point: -1.760754, 0.9855672
+[Info]    MMOServerPlugin       Collider Point: -2.247199, 1.168711
+[Info]    MMOServerPlugin       Collider Point: -2.617098, 1.533876
+[Info]    MMOServerPlugin       Collider Point: -2.806491, 2.017921
+[Info]    MMOServerPlugin       Enemy 3 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy Collider: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy 42 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy Collider: -3.045334, 0.974978
+[Info]    MMOServerPlugin       Enemy 42 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.835349, 1.289722
+[Info]    MMOServerPlugin       Collider Point: -1.835349, 1.289722
+[Info]    MMOServerPlugin       Collider Point: -1.56402, 0.06952512
+[Info]    MMOServerPlugin       Collider Point: -2.083776, 0.06465721
+[Info]    MMOServerPlugin       Collider Point: -2.560577, 0.2716141
+[Info]    MMOServerPlugin       Collider Point: -2.91198, 0.6546112
+[Info]    MMOServerPlugin       Collider Point: -3.077223, 1.147425
+[Info]    MMOServerPlugin       Enemy 3 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy Collider: -3.459159, 1.142985
+[Info]    MMOServerPlugin       Enemy 3 was slain.
+[Info]    MMOServerPlugin       Enemy 19 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy Collider: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy 32 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Enemy Collider: -2.334384, -0.7546232
+[Info]    MMOServerPlugin       Enemy 32 was slain.
+[Info]    MMOServerPlugin       Enemy 37 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy Collider: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy 46 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Enemy Collider: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Collider Position: -2.367149, 0.5553353
+[Info]    MMOServerPlugin       Collider Point: -2.367149, 0.5553353
+[Info]    MMOServerPlugin       Collider Point: -2.10197, -0.6662127
+[Info]    MMOServerPlugin       Collider Point: -2.621744, -0.6684625
+[Info]    MMOServerPlugin       Collider Point: -3.097497, -0.4591064
+[Info]    MMOServerPlugin       Collider Point: -3.446965, -0.0743441
+[Info]    MMOServerPlugin       Collider Point: -3.609724, 0.4192954
+[Info]    MMOServerPlugin       Enemy 19 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy Collider: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy 37 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy Collider: -2.522039, -0.1970229
+[Info]    MMOServerPlugin       Enemy 37 was slain.
+[Info]    MMOServerPlugin       Enemy 46 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Enemy Collider: -3.352356, -0.1746845
+[Info]    MMOServerPlugin       Enemy 46 was slain.
+[Info]    MMOServerPlugin       Collider Position: -2.849253, 0.09020501
+[Info]    MMOServerPlugin       Collider Point: -2.849253, 0.09020501
+[Info]    MMOServerPlugin       Collider Point: -2.572149, -1.128693
+[Info]    MMOServerPlugin       Collider Point: -3.091876, -1.136023
+[Info]    MMOServerPlugin       Collider Point: -3.569652, -0.9313259
+[Info]    MMOServerPlugin       Collider Point: -3.922864, -0.5499973
+[Info]    MMOServerPlugin       Collider Point: -4.090439, -0.05797189
+[Info]    MMOServerPlugin       Enemy 19 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy Collider: -3.235357, 0.03514767
+[Info]    MMOServerPlugin       Enemy 19 was slain.
+[Info]    MMOServerPlugin       Collider Position: -2.478367, 1.408177
+[Info]    MMOServerPlugin       Collider Point: -2.478367, 1.408177
+[Info]    MMOServerPlugin       Collider Point: -3.069148, 2.509757
+[Info]    MMOServerPlugin       Collider Point: -2.570019, 2.654812
+[Info]    MMOServerPlugin       Collider Point: -2.055043, 2.584313
+[Info]    MMOServerPlugin       Collider Point: -1.613264, 2.31045
+[Info]    MMOServerPlugin       Collider Point: -1.321069, 1.880575
+[Info]    MMOServerPlugin       Collider Position: -2.260705, 2.181659
+[Info]    MMOServerPlugin       Collider Point: -2.260705, 2.181659
+[Info]    MMOServerPlugin       Collider Point: -2.630892, 3.375586
+[Info]    MMOServerPlugin       Collider Point: -2.113274, 3.422935
+[Info]    MMOServerPlugin       Collider Point: -1.621148, 3.255655
+[Info]    MMOServerPlugin       Collider Point: -1.239607, 2.902672
+[Info]    MMOServerPlugin       Collider Point: -1.034623, 2.425019
+[Info]    MMOServerPlugin       Enemy 20 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy Collider: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy 57 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy Collider: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy 87 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy Collider: -2.250228, 2.572914
+[Info]    MMOServerPlugin       Enemy 87 was slain.
+[Info]    MMOServerPlugin       Enemy 89 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Enemy Collider: -2.187931, 2.451696
+[Info]    MMOServerPlugin       Enemy 89 was slain.
+[Info]    MMOServerPlugin       Collider Position: -2.260705, 2.181659
+[Info]    MMOServerPlugin       Collider Point: -2.260705, 2.181659
+[Info]    MMOServerPlugin       Collider Point: -2.389205, 3.425037
+[Info]    MMOServerPlugin       Collider Point: -1.872368, 3.369807
+[Info]    MMOServerPlugin       Collider Point: -1.422678, 3.109135
+[Info]    MMOServerPlugin       Collider Point: -1.117891, 2.688094
+[Info]    MMOServerPlugin       Collider Point: -1.010707, 2.179487
+[Info]    MMOServerPlugin       Enemy 20 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy Collider: -2.052443, 2.579923
+[Info]    MMOServerPlugin       Enemy 20 was slain.
+[Info]    MMOServerPlugin       Enemy 57 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy Collider: -1.579559, 2.876657
+[Info]    MMOServerPlugin       Enemy 57 was slain.
+[Info]    MMOServerPlugin       Collider Position: -1.913477, 2.083948
+[Info]    MMOServerPlugin       Collider Point: -1.913477, 2.083948
+[Info]    MMOServerPlugin       Collider Point: -1.241683, 3.138079
+[Info]    MMOServerPlugin       Collider Point: -0.8710091, 2.773701
+[Info]    MMOServerPlugin       Collider Point: -0.6805872, 2.290059
+[Info]    MMOServerPlugin       Collider Point: -0.7033432, 1.770778
+[Info]    MMOServerPlugin       Collider Point: -0.9353423, 1.305647
+[Info]    MMOServerPlugin       Collider Position: -1.022758, 1.833294
+[Info]    MMOServerPlugin       Collider Point: -1.022758, 1.833294
+[Info]    MMOServerPlugin       Collider Point: -1.027513, 3.083285
+[Info]    MMOServerPlugin       Collider Point: -0.5186852, 2.977152
+[Info]    MMOServerPlugin       Collider Point: -0.09701562, 2.673235
+[Info]    MMOServerPlugin       Collider Point: 0.1645846, 2.224085
+[Info]    MMOServerPlugin       Collider Point: 0.2208828, 1.707364
+[Info]    MMOServerPlugin       Enemy 17 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy Collider: -0.2655444, 2.274124
+[Info]    MMOServerPlugin       Enemy 17 was slain.
+[Info]    MMOServerPlugin       Enemy 54 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Enemy Collider: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Collider Position: -0.2385554, 1.612615
+[Info]    MMOServerPlugin       Collider Point: -0.2385554, 1.612615
+[Info]    MMOServerPlugin       Collider Point: -1.424344, 2.008096
+[Info]    MMOServerPlugin       Collider Point: -1.160971, 2.456208
+[Info]    MMOServerPlugin       Collider Point: -0.7381036, 2.758456
+[Info]    MMOServerPlugin       Collider Point: -0.2288599, 2.862577
+[Info]    MMOServerPlugin       Collider Point: 0.2787073, 2.750569
+[Info]    MMOServerPlugin       Collider Position: 0.5458506, 1.864846
+[Info]    MMOServerPlugin       Collider Point: 0.5458506, 1.864846
+[Info]    MMOServerPlugin       Collider Point: -0.5506182, 2.46506
+[Info]    MMOServerPlugin       Collider Point: -0.2116949, 2.859142
+[Info]    MMOServerPlugin       Collider Point: 0.2582151, 3.081302
+[Info]    MMOServerPlugin       Collider Point: 0.7778598, 3.093126
+[Info]    MMOServerPlugin       Collider Point: 1.257388, 2.892569
+[Info]    MMOServerPlugin       Enemy 36 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy Collider: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy 45 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Enemy Collider: 0.6876917, 2.490363
+[Info]    MMOServerPlugin       Enemy 45 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.8358555, 2.609081
+[Info]    MMOServerPlugin       Collider Point: 0.8358555, 2.609081
+[Info]    MMOServerPlugin       Collider Point: 0.6602153, 3.84668
+[Info]    MMOServerPlugin       Collider Point: 1.178777, 3.811123
+[Info]    MMOServerPlugin       Collider Point: 1.638044, 3.567723
+[Info]    MMOServerPlugin       Collider Point: 1.958606, 3.158564
+[Info]    MMOServerPlugin       Collider Point: 2.085034, 2.654395
+[Info]    MMOServerPlugin       Enemy 36 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy Collider: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy 41 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy Collider: 1.743166, 2.192819
+[Info]    MMOServerPlugin       Enemy 41 was slain.
+[Info]    MMOServerPlugin       Enemy 56 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.1111009, 3.191199
+[Info]    MMOServerPlugin       Enemy Collider: -0.1111009, 3.191199
+[Info]    MMOServerPlugin       Enemy 58 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy Collider: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy 65 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy Collider: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy 83 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy Collider: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy 85 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Enemy Collider: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Collider Position: 1.622744, 2.568139
+[Info]    MMOServerPlugin       Collider Point: 1.622744, 2.568139
+[Info]    MMOServerPlugin       Collider Point: 2.806325, 2.97018
+[Info]    MMOServerPlugin       Collider Point: 2.867524, 2.454016
+[Info]    MMOServerPlugin       Collider Point: 2.713489, 1.957585
+[Info]    MMOServerPlugin       Collider Point: 2.370854, 1.566724
+[Info]    MMOServerPlugin       Collider Point: 1.898865, 1.349017
+[Info]    MMOServerPlugin       Enemy 31 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy Collider: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy 58 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy Collider: 1.845961, 2.568398
+[Info]    MMOServerPlugin       Enemy 58 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.47523, 2.332093
+[Info]    MMOServerPlugin       Collider Point: 2.47523, 2.332093
+[Info]    MMOServerPlugin       Collider Point: 1.294182, 2.741512
+[Info]    MMOServerPlugin       Collider Point: 1.562814, 3.186492
+[Info]    MMOServerPlugin       Collider Point: 1.989212, 3.483738
+[Info]    MMOServerPlugin       Collider Point: 2.499647, 3.581855
+[Info]    MMOServerPlugin       Collider Point: 3.00586, 3.463876
+[Info]    MMOServerPlugin       Enemy 31 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy Collider: 2.091007, 2.207786
+[Info]    MMOServerPlugin       Enemy 31 was slain.
+[Info]    MMOServerPlugin       Enemy 39 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy Collider: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy 65 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy Collider: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy 83 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy Collider: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy 85 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Enemy Collider: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Collider Position: 2.964033, 2.900619
+[Info]    MMOServerPlugin       Collider Point: 2.964033, 2.900619
+[Info]    MMOServerPlugin       Collider Point: 1.750666, 2.60022
+[Info]    MMOServerPlugin       Collider Point: 1.733383, 3.119711
+[Info]    MMOServerPlugin       Collider Point: 1.928892, 3.60132
+[Info]    MMOServerPlugin       Collider Point: 2.303385, 3.961771
+[Info]    MMOServerPlugin       Collider Point: 2.792111, 4.138739
+[Info]    MMOServerPlugin       Enemy 39 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy Collider: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy 65 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy Collider: 1.422182, 2.962149
+[Info]    MMOServerPlugin       Enemy 65 was slain.
+[Info]    MMOServerPlugin       Enemy 83 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy Collider: 1.700896, 3.125491
+[Info]    MMOServerPlugin       Enemy 83 was slain.
+[Info]    MMOServerPlugin       Enemy 85 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Enemy Collider: 1.035002, 3.005733
+[Info]    MMOServerPlugin       Enemy 85 was slain.
+[Info]    MMOServerPlugin       Collider Position: 3.222785, 3.820116
+[Info]    MMOServerPlugin       Collider Point: 3.222785, 3.820116
+[Info]    MMOServerPlugin       Collider Point: 4.017353, 2.855148
+[Info]    MMOServerPlugin       Collider Point: 3.556171, 2.615395
+[Info]    MMOServerPlugin       Collider Point: 3.037344, 2.583948
+[Info]    MMOServerPlugin       Collider Point: 2.550581, 2.766247
+[Info]    MMOServerPlugin       Collider Point: 2.180049, 3.130769
+[Info]    MMOServerPlugin       Enemy 39 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy Collider: 2.409162, 3.359921
+[Info]    MMOServerPlugin       Enemy 39 was slain.
+[Info]    MMOServerPlugin       Enemy 73 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Enemy Collider: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Collider Position: 2.357241, 3.952688
+[Info]    MMOServerPlugin       Collider Point: 2.357241, 3.952688
+[Info]    MMOServerPlugin       Collider Point: 3.593183, 4.139627
+[Info]    MMOServerPlugin       Collider Point: 3.562365, 3.620762
+[Info]    MMOServerPlugin       Collider Point: 3.32317, 3.15929
+[Info]    MMOServerPlugin       Collider Point: 2.916957, 2.835004
+[Info]    MMOServerPlugin       Collider Point: 2.413964, 2.703976
+[Info]    MMOServerPlugin       Enemy 73 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Enemy Collider: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Collider Position: 2.849702, 2.171193
+[Info]    MMOServerPlugin       Collider Point: 2.849702, 2.171193
+[Info]    MMOServerPlugin       Collider Point: 2.202123, 3.240371
+[Info]    MMOServerPlugin       Collider Point: 2.692983, 3.41133
+[Info]    MMOServerPlugin       Collider Point: 3.210941, 3.367857
+[Info]    MMOServerPlugin       Collider Point: 3.666438, 3.117471
+[Info]    MMOServerPlugin       Collider Point: 3.980713, 2.703465
+[Info]    MMOServerPlugin       Enemy 73 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Enemy Collider: 3.193168, 2.939758
+[Info]    MMOServerPlugin       Enemy 73 was slain.
+[Info]    MMOServerPlugin       Collider Position: 2.509726, -0.6546406
+[Info]    MMOServerPlugin       Collider Point: 2.509726, -0.6546406
+[Info]    MMOServerPlugin       Collider Point: 3.759043, -0.6959484
+[Info]    MMOServerPlugin       Collider Point: 3.634233, -1.20052
+[Info]    MMOServerPlugin       Collider Point: 3.314985, -1.610705
+[Info]    MMOServerPlugin       Collider Point: 2.8565, -1.855577
+[Info]    MMOServerPlugin       Collider Point: 2.338055, -1.892796
+[Info]    MMOServerPlugin       Enemy 4 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy Collider: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy 34 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy Collider: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy 71 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy Collider: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy 74 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy Collider: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy 82 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy Collider: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy 92 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Enemy Collider: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Collider Position: 2.636095, -1.248711
+[Info]    MMOServerPlugin       Collider Point: 2.636095, -1.248711
+[Info]    MMOServerPlugin       Collider Point: 3.879514, -1.37681
+[Info]    MMOServerPlugin       Collider Point: 3.719912, -1.871479
+[Info]    MMOServerPlugin       Collider Point: 3.372909, -2.258466
+[Info]    MMOServerPlugin       Collider Point: 2.898504, -2.470857
+[Info]    MMOServerPlugin       Collider Point: 2.378726, -2.471929
+[Info]    MMOServerPlugin       Enemy 4 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy Collider: 3.083273, -2.296215
+[Info]    MMOServerPlugin       Enemy 4 was slain.
+[Info]    MMOServerPlugin       Enemy 34 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy Collider: 2.755517, -1.925833
+[Info]    MMOServerPlugin       Enemy 34 was slain.
+[Info]    MMOServerPlugin       Enemy 71 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy Collider: 3.413584, -1.756998
+[Info]    MMOServerPlugin       Enemy 71 was slain.
+[Info]    MMOServerPlugin       Enemy 82 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy Collider: 3.30243, -1.603201
+[Info]    MMOServerPlugin       Enemy 82 was slain.
+[Info]    MMOServerPlugin       Enemy 92 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Enemy Collider: 2.827209, -2.61817
+[Info]    MMOServerPlugin       Enemy 92 was slain.
+[Info]    MMOServerPlugin       Collider Position: 3.012978, 0.090573
+[Info]    MMOServerPlugin       Collider Point: 3.012978, 0.090573
+[Info]    MMOServerPlugin       Collider Point: 4.006134, -0.6684668
+[Info]    MMOServerPlugin       Collider Point: 3.611541, -1.006797
+[Info]    MMOServerPlugin       Collider Point: 3.113452, -1.155382
+[Info]    MMOServerPlugin       Collider Point: 2.59799, -1.088531
+[Info]    MMOServerPlugin       Collider Point: 2.154283, -0.8178009
+[Info]    MMOServerPlugin       Enemy 74 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy Collider: 3.138715, -1.34704
+[Info]    MMOServerPlugin       Enemy 74 was slain.
+[Info]    MMOServerPlugin       Collider Position: -0.881652, 1.434824
+[Info]    MMOServerPlugin       Collider Point: -0.881652, 1.434824
+[Info]    MMOServerPlugin       Collider Point: -2.051772, 1.874506
+[Info]    MMOServerPlugin       Collider Point: -1.771775, 2.312424
+[Info]    MMOServerPlugin       Collider Point: -1.337867, 2.598597
+[Info]    MMOServerPlugin       Collider Point: -0.8250763, 2.683543
+[Info]    MMOServerPlugin       Collider Point: -0.3220679, 2.552574
+[Info]    MMOServerPlugin       Collider Position: -1.212526, 1.986622
+[Info]    MMOServerPlugin       Collider Point: -1.212526, 1.986622
+[Info]    MMOServerPlugin       Collider Point: -1.629934, 3.164871
+[Info]    MMOServerPlugin       Collider Point: -1.11461, 3.232781
+[Info]    MMOServerPlugin       Collider Point: -0.6162171, 3.085219
+[Info]    MMOServerPlugin       Collider Point: -0.2209311, 2.747699
+[Info]    MMOServerPlugin       Collider Point: 0.00289917, 2.278583
+[Info]    MMOServerPlugin       Enemy 54 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Enemy Collider: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Collider Position: -0.5501962, 1.968876
+[Info]    MMOServerPlugin       Collider Point: -0.5501962, 1.968876
+[Info]    MMOServerPlugin       Collider Point: -0.7198651, 3.207307
+[Info]    MMOServerPlugin       Collider Point: -0.2014811, 3.16925
+[Info]    MMOServerPlugin       Collider Point: 0.256607, 2.923637
+[Info]    MMOServerPlugin       Collider Point: 0.5751915, 2.512937
+[Info]    MMOServerPlugin       Collider Point: 0.6991863, 2.008164
+[Info]    MMOServerPlugin       Enemy 54 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Enemy Collider: -1.191489, 2.878166
+[Info]    MMOServerPlugin       Enemy 54 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.2878854, 1.911364
+[Info]    MMOServerPlugin       Collider Point: 0.2878854, 1.911364
+[Info]    MMOServerPlugin       Collider Point: -0.708729, 2.665857
+[Info]    MMOServerPlugin       Collider Point: -0.3156873, 3.005987
+[Info]    MMOServerPlugin       Collider Point: 0.1817177, 3.156847
+[Info]    MMOServerPlugin       Collider Point: 0.6974801, 3.092352
+[Info]    MMOServerPlugin       Collider Point: 1.14242, 2.823653
+[Info]    MMOServerPlugin       Enemy 36 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy Collider: -0.0930469, 3.05351
+[Info]    MMOServerPlugin       Enemy 36 was slain.
+[Info]    MMOServerPlugin       Collider Position: 0.5584064, 2.435367
+[Info]    MMOServerPlugin       Collider Point: 0.5584064, 2.435367
+[Info]    MMOServerPlugin       Collider Point: -0.4895444, 3.116762
+[Info]    MMOServerPlugin       Collider Point: -0.1217961, 3.484092
+[Info]    MMOServerPlugin       Collider Point: 0.3635656, 3.670089
+[Info]    MMOServerPlugin       Collider Point: 0.8826169, 3.64259
+[Info]    MMOServerPlugin       Collider Point: 1.345609, 3.406352
+[Info]    MMOServerPlugin       Enemy 56 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -0.1111009, 3.191199
+[Info]    MMOServerPlugin       Enemy Collider: -0.1111009, 3.191199
+[Info]    MMOServerPlugin       Collider Position: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -4.063655, 2.962487
+[Info]    MMOServerPlugin       Collider Point: -3.676154, 3.308916
+[Info]    MMOServerPlugin       Collider Point: -3.181248, 3.467784
+[Info]    MMOServerPlugin       Collider Point: -2.664512, 3.411621
+[Info]    MMOServerPlugin       Collider Point: -2.215294, 3.150138
+[Info]    MMOServerPlugin       Enemy 28 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Enemy Collider: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Collider Position: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -4.055564, 2.973415
+[Info]    MMOServerPlugin       Collider Point: -3.664317, 3.315609
+[Info]    MMOServerPlugin       Collider Point: -3.167713, 3.469084
+[Info]    MMOServerPlugin       Collider Point: -2.651618, 3.407303
+[Info]    MMOServerPlugin       Collider Point: -2.205271, 3.140949
+[Info]    MMOServerPlugin       Enemy 28 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Enemy Collider: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Collider Position: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -3.054993, 2.224177
+[Info]    MMOServerPlugin       Collider Point: -4.046303, 2.985626
+[Info]    MMOServerPlugin       Collider Point: -3.650891, 3.322997
+[Info]    MMOServerPlugin       Collider Point: -3.152442, 3.470372
+[Info]    MMOServerPlugin       Collider Point: -2.637144, 3.402269
+[Info]    MMOServerPlugin       Collider Point: -2.194096, 3.130463
+[Info]    MMOServerPlugin       Enemy 28 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Enemy Collider: -3.245663, 3.397944
+[Info]    MMOServerPlugin       Enemy 28 was slain.
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.

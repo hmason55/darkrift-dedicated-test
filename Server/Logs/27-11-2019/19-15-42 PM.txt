@@ -1,0 +1,66 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 0
+[Info]    MMOServerPlugin       Current Health: 25
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:52929.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:54752.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:52929|127.0.0.1:54752].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:52938.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49568.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:52938|127.0.0.1:49568].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:52944.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:49238.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:52944|127.0.0.1:49238].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Info]    MMOServerPlugin       Collider Position: -18.03833, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -18.03833, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -17.49467, 8.138394
+[Info]    MMOServerPlugin       Collider Point: -17.08386, 7.819957
+[Info]    MMOServerPlugin       Collider Point: -16.83808, 7.361958
+[Info]    MMOServerPlugin       Collider Point: -16.79984, 6.843587
+[Info]    MMOServerPlugin       Collider Point: -16.97574, 6.354477
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -17.12571, 7.012241
+[Info]    MMOServerPlugin       Enemy Collider: -17.16738, 7.012267
+[Info]    MMOServerPlugin       Collider Position: -19.43332, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -19.43332, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -18.88876, 8.137955
+[Info]    MMOServerPlugin       Collider Point: -18.4782, 7.819186
+[Info]    MMOServerPlugin       Collider Point: -18.23279, 7.360988
+[Info]    MMOServerPlugin       Collider Point: -18.19497, 6.842587
+[Info]    MMOServerPlugin       Collider Point: -18.37127, 6.353619
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -18.58402, 7.012698
+[Info]    MMOServerPlugin       Enemy Collider: -18.58402, 7.012698
+[Info]    MMOServerPlugin       Collider Position: -20.71515, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -20.71515, 7.012811
+[Info]    MMOServerPlugin       Collider Point: -19.56019, 7.490912
+[Info]    MMOServerPlugin       Collider Point: -19.46558, 6.979816
+[Info]    MMOServerPlugin       Collider Point: -19.58703, 6.474425
+[Info]    MMOServerPlugin       Collider Point: -19.90354, 6.062126
+[Info]    MMOServerPlugin       Collider Point: -20.36039, 5.814209
+[Info]    MMOServerPlugin       Enemy 0 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -19.91734, 7.012787
+[Info]    MMOServerPlugin       Enemy Collider: -19.91734, 7.012787
+[Info]    MMOServerPlugin       Enemy 0 was slain.
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected.
+[Info]    MMOServerPlugin       Spawned enemy 1
+[Info]    MMOServerPlugin       Current Health: 25

@@ -1,0 +1,445 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 4724
+[Info]    MMOServerPlugin       Spawned enemy 16501
+[Info]    MMOServerPlugin       Spawned enemy 18697
+[Info]    MMOServerPlugin       Spawned enemy 15363
+[Info]    MMOServerPlugin       Spawned enemy 24576
+[Info]    MMOServerPlugin       Spawned enemy 241
+[Info]    MMOServerPlugin       Spawned enemy 44706
+[Info]    MMOServerPlugin       Spawned enemy 24197
+[Info]    MMOServerPlugin       Spawned enemy 61559
+[Info]    MMOServerPlugin       Spawned enemy 53405
+[Info]    MMOServerPlugin       Spawned enemy 15032
+[Info]    MMOServerPlugin       Spawned enemy 32066
+[Info]    MMOServerPlugin       Spawned enemy 17040
+[Info]    MMOServerPlugin       Spawned enemy 13601
+[Info]    MMOServerPlugin       Spawned enemy 7457
+[Info]    MMOServerPlugin       Spawned enemy 18950
+[Info]    MMOServerPlugin       Spawned enemy 58279
+[Info]    MMOServerPlugin       Spawned enemy 23991
+[Info]    MMOServerPlugin       Spawned enemy 14600
+[Info]    MMOServerPlugin       Spawned enemy 56479
+[Info]    MMOServerPlugin       Spawned enemy 65127
+[Info]    MMOServerPlugin       Spawned enemy 12030
+[Info]    MMOServerPlugin       Spawned enemy 62942
+[Info]    MMOServerPlugin       Spawned enemy 52174
+[Info]    MMOServerPlugin       Spawned enemy 6239
+[Info]    MMOServerPlugin       Spawned enemy 37693
+[Info]    MMOServerPlugin       Spawned enemy 6550
+[Info]    MMOServerPlugin       Spawned enemy 4214
+[Info]    MMOServerPlugin       Spawned enemy 50774
+[Info]    MMOServerPlugin       Spawned enemy 55605
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:53808.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57644.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:53808|127.0.0.1:57644].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Enemy 4724 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.327705, 9.393338
+[Info]    MMOServerPlugin       Enemy Collider: -5.327705, 9.393338
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.316922, 9.393269
+[Info]    MMOServerPlugin       Enemy Collider: -5.316922, 9.393269
+[Info]    MMOServerPlugin       Enemy 18697 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.319461, 9.394152
+[Info]    MMOServerPlugin       Enemy Collider: -5.319461, 9.394152
+[Info]    MMOServerPlugin       Enemy 18697 was slain.
+[Info]    MMOServerPlugin       Enemy 15363 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.314426, 9.394395
+[Info]    MMOServerPlugin       Enemy Collider: -5.314426, 9.394395
+[Info]    MMOServerPlugin       Enemy 24576 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.361803, 9.392858
+[Info]    MMOServerPlugin       Enemy Collider: -5.361803, 9.392858
+[Info]    MMOServerPlugin       Enemy 241 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.379507, 9.393054
+[Info]    MMOServerPlugin       Enemy Collider: -5.379507, 9.393054
+[Info]    MMOServerPlugin       Enemy 241 was slain.
+[Info]    MMOServerPlugin       Enemy 44706 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.327516, 9.392769
+[Info]    MMOServerPlugin       Enemy Collider: -5.421266, 9.392931
+[Info]    MMOServerPlugin       Enemy 24197 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.42205, 9.393545
+[Info]    MMOServerPlugin       Enemy Collider: -5.42205, 9.393545
+[Info]    MMOServerPlugin       Enemy 61559 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.381323, 9.390572
+[Info]    MMOServerPlugin       Enemy Collider: -5.381323, 9.390572
+[Info]    MMOServerPlugin       Enemy 61559 was slain.
+[Info]    MMOServerPlugin       Enemy 53405 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.410175, 9.393316
+[Info]    MMOServerPlugin       Enemy Collider: -5.410175, 9.393316
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.404549, 9.393152
+[Info]    MMOServerPlugin       Enemy Collider: -5.404549, 9.393152
+[Info]    MMOServerPlugin       Enemy 32066 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.380681, 9.392185
+[Info]    MMOServerPlugin       Enemy Collider: -5.380681, 9.392185
+[Info]    MMOServerPlugin       Enemy 32066 was slain.
+[Info]    MMOServerPlugin       Enemy 17040 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.466189, 9.392922
+[Info]    MMOServerPlugin       Enemy Collider: -5.466189, 9.392922
+[Info]    MMOServerPlugin       Enemy 13601 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.373495, 9.391437
+[Info]    MMOServerPlugin       Enemy Collider: -5.373495, 9.391437
+[Info]    MMOServerPlugin       Enemy 7457 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.417569, 9.393204
+[Info]    MMOServerPlugin       Enemy Collider: -5.417569, 9.393204
+[Info]    MMOServerPlugin       Enemy 7457 was slain.
+[Info]    MMOServerPlugin       Enemy 18950 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.393745, 9.394442
+[Info]    MMOServerPlugin       Enemy Collider: -5.393745, 9.394442
+[Info]    MMOServerPlugin       Enemy 58279 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.40688, 9.392227
+[Info]    MMOServerPlugin       Enemy Collider: -5.40688, 9.392227
+[Info]    MMOServerPlugin       Enemy 23991 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.428589, 9.393221
+[Info]    MMOServerPlugin       Enemy Collider: -5.428589, 9.393221
+[Info]    MMOServerPlugin       Enemy 23991 was slain.
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.410805, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -5.410805, 9.393224
+[Info]    MMOServerPlugin       Enemy 56479 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.419641, 9.392971
+[Info]    MMOServerPlugin       Enemy Collider: -5.419641, 9.392971
+[Info]    MMOServerPlugin       Enemy 65127 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.400185, 9.393235
+[Info]    MMOServerPlugin       Enemy Collider: -5.400185, 9.393235
+[Info]    MMOServerPlugin       Enemy 65127 was slain.
+[Info]    MMOServerPlugin       Enemy 12030 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.421546, 9.393234
+[Info]    MMOServerPlugin       Enemy Collider: -5.421546, 9.393234
+[Info]    MMOServerPlugin       Enemy 62942 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.42449, 9.393202
+[Info]    MMOServerPlugin       Enemy Collider: -5.42449, 9.393202
+[Info]    MMOServerPlugin       Enemy 52174 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.405767, 9.39362
+[Info]    MMOServerPlugin       Enemy Collider: -5.405767, 9.39362
+[Info]    MMOServerPlugin       Enemy 52174 was slain.
+[Info]    MMOServerPlugin       Enemy 6239 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.343302, 9.390529
+[Info]    MMOServerPlugin       Enemy Collider: -5.343302, 9.390529
+[Info]    MMOServerPlugin       Enemy 37693 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.429747, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -5.429747, 9.393222
+[Info]    MMOServerPlugin       Enemy 6550 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.367511, 9.393966
+[Info]    MMOServerPlugin       Enemy Collider: -5.367511, 9.393966
+[Info]    MMOServerPlugin       Enemy 6550 was slain.
+[Info]    MMOServerPlugin       Enemy 4214 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.404765, 9.392971
+[Info]    MMOServerPlugin       Enemy Collider: -5.404765, 9.392971
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.353357, 9.390464
+[Info]    MMOServerPlugin       Enemy Collider: -5.353357, 9.390464
+[Info]    MMOServerPlugin       Enemy 55605 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.413567, 9.393231
+[Info]    MMOServerPlugin       Enemy Collider: -5.413567, 9.393231
+[Info]    MMOServerPlugin       Enemy 55605 was slain.
+[Info]    MMOServerPlugin       Enemy 4724 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.515205, 9.393256
+[Info]    MMOServerPlugin       Enemy Collider: -5.515205, 9.393256
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.504422, 9.393237
+[Info]    MMOServerPlugin       Enemy Collider: -5.504422, 9.393237
+[Info]    MMOServerPlugin       Enemy 15363 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.501924, 9.393598
+[Info]    MMOServerPlugin       Enemy Collider: -5.501924, 9.393598
+[Info]    MMOServerPlugin       Enemy 15363 was slain.
+[Info]    MMOServerPlugin       Enemy 24576 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.549303, 9.393158
+[Info]    MMOServerPlugin       Enemy Collider: -5.549303, 9.393158
+[Info]    MMOServerPlugin       Enemy 44706 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.515016, 9.393093
+[Info]    MMOServerPlugin       Enemy Collider: -5.515016, 9.393093
+[Info]    MMOServerPlugin       Enemy 24197 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.5158, 9.393365
+[Info]    MMOServerPlugin       Enemy Collider: -5.5158, 9.393365
+[Info]    MMOServerPlugin       Enemy 24197 was slain.
+[Info]    MMOServerPlugin       Enemy 53405 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.503925, 9.393268
+[Info]    MMOServerPlugin       Enemy Collider: -5.503925, 9.393268
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.498299, 9.393188
+[Info]    MMOServerPlugin       Enemy Collider: -5.498299, 9.393188
+[Info]    MMOServerPlugin       Enemy 17040 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.559938, 9.39315
+[Info]    MMOServerPlugin       Enemy Collider: -5.559938, 9.39315
+[Info]    MMOServerPlugin       Enemy 17040 was slain.
+[Info]    MMOServerPlugin       Enemy 13601 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.467241, 9.39221
+[Info]    MMOServerPlugin       Enemy Collider: -5.467241, 9.39221
+[Info]    MMOServerPlugin       Enemy 18950 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.487493, 9.393859
+[Info]    MMOServerPlugin       Enemy Collider: -5.487493, 9.393859
+[Info]    MMOServerPlugin       Enemy 58279 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.500628, 9.392737
+[Info]    MMOServerPlugin       Enemy Collider: -5.500628, 9.392737
+[Info]    MMOServerPlugin       Enemy 58279 was slain.
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.504555, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -5.504555, 9.393223
+[Info]    MMOServerPlugin       Enemy 56479 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.513391, 9.393109
+[Info]    MMOServerPlugin       Enemy Collider: -5.513391, 9.393109
+[Info]    MMOServerPlugin       Enemy 12030 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.515296, 9.393228
+[Info]    MMOServerPlugin       Enemy Collider: -5.515296, 9.393228
+[Info]    MMOServerPlugin       Enemy 12030 was slain.
+[Info]    MMOServerPlugin       Enemy 62942 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.51824, 9.393213
+[Info]    MMOServerPlugin       Enemy Collider: -5.61199, 9.393226
+[Info]    MMOServerPlugin       Enemy 6239 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.53079, 9.392577
+[Info]    MMOServerPlugin       Enemy Collider: -5.53079, 9.392577
+[Info]    MMOServerPlugin       Enemy 37693 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.617247, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -5.617247, 9.393223
+[Info]    MMOServerPlugin       Enemy 37693 was slain.
+[Info]    MMOServerPlugin       Enemy 4214 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.592265, 9.393226
+[Info]    MMOServerPlugin       Enemy Collider: -5.592265, 9.393226
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.540844, 9.392651
+[Info]    MMOServerPlugin       Enemy Collider: -5.540844, 9.392651
+[Info]    MMOServerPlugin       Enemy 4724 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.890205, 9.39322
+[Info]    MMOServerPlugin       Enemy Collider: -5.890205, 9.39322
+[Info]    MMOServerPlugin       Enemy 4724 was slain.
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.879422, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -5.879422, 9.393222
+[Info]    MMOServerPlugin       Enemy 24576 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.924303, 9.393247
+[Info]    MMOServerPlugin       Enemy Collider: -5.924303, 9.393247
+[Info]    MMOServerPlugin       Enemy 44706 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.890016, 9.393233
+[Info]    MMOServerPlugin       Enemy Collider: -5.890016, 9.393233
+[Info]    MMOServerPlugin       Enemy 44706 was slain.
+[Info]    MMOServerPlugin       Enemy 53405 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.878925, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -5.878925, 9.393222
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.873299, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -5.873299, 9.393224
+[Info]    MMOServerPlugin       Enemy 13601 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.842238, 9.393128
+[Info]    MMOServerPlugin       Enemy Collider: -5.842238, 9.393128
+[Info]    MMOServerPlugin       Enemy 13601 was slain.
+[Info]    MMOServerPlugin       Enemy 18950 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.862491, 9.393242
+[Info]    MMOServerPlugin       Enemy Collider: -5.862491, 9.393242
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.879555, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -5.879555, 9.393223
+[Info]    MMOServerPlugin       Enemy 56479 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.888391, 9.393231
+[Info]    MMOServerPlugin       Enemy Collider: -5.888391, 9.393231
+[Info]    MMOServerPlugin       Enemy 56479 was slain.
+[Info]    MMOServerPlugin       Enemy 62942 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.89324, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -5.89324, 9.393224
+[Info]    MMOServerPlugin       Enemy 6239 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.81204, 9.392943
+[Info]    MMOServerPlugin       Enemy Collider: -5.81204, 9.392943
+[Info]    MMOServerPlugin       Enemy 4214 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.873515, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -5.873515, 9.393224
+[Info]    MMOServerPlugin       Enemy 4214 was slain.
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -5.822094, 9.392982
+[Info]    MMOServerPlugin       Enemy Collider: -5.822094, 9.392982
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.160672, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.160672, 9.393222
+[Info]    MMOServerPlugin       Enemy 24576 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.205553, 9.393233
+[Info]    MMOServerPlugin       Enemy Collider: -6.205553, 9.393233
+[Info]    MMOServerPlugin       Enemy 24576 was slain.
+[Info]    MMOServerPlugin       Enemy 53405 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.160175, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.160175, 9.393222
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.154549, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -6.154549, 9.393224
+[Info]    MMOServerPlugin       Enemy 18950 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.143741, 9.393232
+[Info]    MMOServerPlugin       Enemy Collider: -6.143741, 9.393232
+[Info]    MMOServerPlugin       Enemy 18950 was slain.
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.160805, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -6.160805, 9.393223
+[Info]    MMOServerPlugin       Enemy 62942 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.17449, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -6.17449, 9.393224
+[Info]    MMOServerPlugin       Enemy 6239 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.09329, 9.393072
+[Info]    MMOServerPlugin       Enemy Collider: -6.09329, 9.393072
+[Info]    MMOServerPlugin       Enemy 6239 was slain.
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.197094, 9.393123
+[Info]    MMOServerPlugin       Enemy Collider: -6.197094, 9.393123
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.348172, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.348172, 9.393222
+[Info]    MMOServerPlugin       Enemy 53405 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.347675, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.347675, 9.393222
+[Info]    MMOServerPlugin       Enemy 53405 was slain.
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.342049, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -6.342049, 9.393224
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.348305, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -6.348305, 9.393223
+[Info]    MMOServerPlugin       Enemy 62942 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.36199, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -6.36199, 9.393224
+[Info]    MMOServerPlugin       Enemy 62942 was slain.
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.290844, 9.393144
+[Info]    MMOServerPlugin       Enemy Collider: -6.290844, 9.393144
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.535672, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.535672, 9.393222
+[Info]    MMOServerPlugin       Enemy 15032 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.529549, 9.393224
+[Info]    MMOServerPlugin       Enemy Collider: -6.529549, 9.393224
+[Info]    MMOServerPlugin       Enemy 15032 was slain.
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.535805, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -6.535805, 9.393223
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.478344, 9.393171
+[Info]    MMOServerPlugin       Enemy Collider: -6.478344, 9.393171
+[Info]    MMOServerPlugin       Enemy 16501 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.723172, 9.393222
+[Info]    MMOServerPlugin       Enemy Collider: -6.723172, 9.393222
+[Info]    MMOServerPlugin       Enemy 16501 was slain.
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.723305, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -6.723305, 9.393223
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.665844, 9.393187
+[Info]    MMOServerPlugin       Enemy Collider: -6.665844, 9.393187
+[Info]    MMOServerPlugin       Enemy 14600 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -7.004555, 9.393223
+[Info]    MMOServerPlugin       Enemy Collider: -7.004555, 9.393223
+[Info]    MMOServerPlugin       Enemy 14600 was slain.
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -6.947094, 9.3932
+[Info]    MMOServerPlugin       Enemy Collider: -6.947094, 9.3932
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -7.134594, 9.393206
+[Info]    MMOServerPlugin       Enemy Collider: -7.134594, 9.393206
+[Info]    MMOServerPlugin       Enemy 50774 took 10 damage.
+[Info]    MMOServerPlugin       Enemy Position: -7.322094, 9.393209
+[Info]    MMOServerPlugin       Enemy Collider: -7.322094, 9.393209
+[Info]    MMOServerPlugin       Enemy 50774 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 38398
+[Info]    MMOServerPlugin       Spawned enemy 33363
+[Info]    MMOServerPlugin       Spawned enemy 61397
+[Info]    MMOServerPlugin       Spawned enemy 37937
+[Info]    MMOServerPlugin       Spawned enemy 45732
+[Info]    MMOServerPlugin       Spawned enemy 3017
+[Info]    MMOServerPlugin       Spawned enemy 37253
+[Info]    MMOServerPlugin       Spawned enemy 8714
+[Info]    MMOServerPlugin       Spawned enemy 10843
+[Info]    MMOServerPlugin       Spawned enemy 60215
+[Info]    MMOServerPlugin       Spawned enemy 29468
+[Info]    MMOServerPlugin       Spawned enemy 42561
+[Info]    MMOServerPlugin       Spawned enemy 42512
+[Info]    MMOServerPlugin       Spawned enemy 60835
+[Info]    MMOServerPlugin       Spawned enemy 28849
+[Info]    MMOServerPlugin       Spawned enemy 55992
+[Info]    MMOServerPlugin       Spawned enemy 60418
+[Info]    MMOServerPlugin       Spawned enemy 50378
+[Info]    MMOServerPlugin       Spawned enemy 18719
+[Info]    MMOServerPlugin       Spawned enemy 49554
+[Info]    MMOServerPlugin       Spawned enemy 9674
+[Info]    MMOServerPlugin       Spawned enemy 42329
+[Info]    MMOServerPlugin       Spawned enemy 39133
+[Info]    MMOServerPlugin       Spawned enemy 60043
+[Info]    MMOServerPlugin       Spawned enemy 8978
+[Info]    MMOServerPlugin       Spawned enemy 41387
+[Info]    MMOServerPlugin       Spawned enemy 46410
+[Info]    MMOServerPlugin       Spawned enemy 35194
+[Info]    MMOServerPlugin       Spawned enemy 36884
+[Info]    MMOServerPlugin       Spawned enemy 16195
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:53810.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57645.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:53810|127.0.0.1:57645].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:53811.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57646.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:53811|127.0.0.1:57646].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Error]   Client                An plugin encountered an error whilst handling the MessageReceived event.
+                                 System.NullReferenceException: Object reference not set to an instance of an object.
+                                    at PlayerEffectCollider.CheckEnemyCollision(List`1 colliders, Vector2 velocity)
+                                    at MMOServerPlugin.MMOServerPlugin.SpawnPlayerEffectConeMessageReceived(DarkRiftReader reader, MessageReceivedEventArgs e)
+                                    at MMOServerPlugin.MMOServerPlugin.OnClientMessageReceived(Object sender, MessageReceivedEventArgs e)
+                                    at DarkRift.Server.Client.<>c__DisplayClass40_0.<HandleIncomingMessage>b__0()
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected.

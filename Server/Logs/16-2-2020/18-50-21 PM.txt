@@ -1,0 +1,47 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.4.5.0 - Free
+[Info]    MMOServerPlugin       Loading map... 
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.3
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63408.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60949.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:63408|127.0.0.1:60949].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63409.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60950.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:63409|127.0.0.1:60950].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63410.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60951.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:63410|127.0.0.1:60951].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Info]    ClientManager         Client [2] disconnected: ConnectionReset.
+                                 System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63411.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60952.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:63411|127.0.0.1:60952].
+[Info]    MMOServerPlugin       Welcome adventurer, 3
+[Info]    MMOServerPlugin       Goodbye adventurer, 3
+[Info]    ClientManager         Client [3] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:63412.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:60953.
+[Info]    ClientManager         New client [4] connected [127.0.0.1:63412|127.0.0.1:60953].
+[Info]    MMOServerPlugin       Welcome adventurer, 4
+[Info]    MMOServerPlugin       Goodbye adventurer, 4
+[Info]    ClientManager         Client [4] disconnected.

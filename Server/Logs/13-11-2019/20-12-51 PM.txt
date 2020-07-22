@@ -1,0 +1,91 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58553.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:59693.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:58553|127.0.0.1:59693].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.1601372, 0.2205347
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58559.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:53835.
+[Info]    ClientManager         New client [1] connected [127.0.0.1:58559|127.0.0.1:53835].
+[Info]    MMOServerPlugin       Welcome adventurer, 1
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3543555, 0.1964356
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.01049279, -0.1414155
+[Info]    MMOServerPlugin       Goodbye adventurer, 1
+[Info]    ClientManager         Client [1] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58563.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:64250.
+[Info]    ClientManager         New client [2] connected [127.0.0.1:58563|127.0.0.1:64250].
+[Info]    MMOServerPlugin       Welcome adventurer, 2
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.2061669, 0.3453001
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.3155551, -0.1364129
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.4019555, 0.3406401
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.3050476, -0.1369058
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.1925089, -0.1133678
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.04887395, 0.1010551
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.2232601, 0.3513921
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.4089356, 0.3373395
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.4962442, 0.2660858
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.5424637, 0.05801426
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.4637677, -0.07464761
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.4262115, -0.1019596
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.3486562, -0.1319243
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.1651132, -0.09837638
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: -0.1012255, -0.04044315
+[Info]    MMOServerPlugin       Goodbye adventurer, 2
+[Info]    ClientManager         Client [2] disconnected.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:58572.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:61632.
+[Info]    ClientManager         New client [3] connected [127.0.0.1:58572|127.0.0.1:61632].
+[Info]    MMOServerPlugin       Welcome adventurer, 3
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2146341, -0.2553219
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3277349, -0.3227329
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.1860209, -0.2491501
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.201478, -0.2520479
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3669874, -0.3761308
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3874274, -0.4252472
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3973287, -0.4824613
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3973352, -0.4825804
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3940457, -0.4535713
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3883837, -0.4285624
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3732241, -0.3882998
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3549938, -0.3564401
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3083099, -0.3046073
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2195859, -0.2567528
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.1986517, -0.2514426
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2107189, -0.2542681
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2685302, -0.2773324
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3275351, -0.3225257
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3855385, -0.4191521
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3928279, -0.4470497
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3968825, -0.4759174
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3948305, -0.4583861
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.390115, -0.435057
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3732352, -0.3883229
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3433072, -0.3405037
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2957627, -0.2947536
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2487773, -0.2675382
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2751702, -0.2811316
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3507559, -0.3503513
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3915029, -0.4408502
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3954067, -0.462366
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3920979, -0.4435397
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3784288, -0.3999306
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.358417, -0.3616566
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3114783, -0.3073085
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.2551149, -0.2704459
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.258644, -0.2721591
+[Info]    MMOServerPlugin       PlayerEffectConeCollider: 0.3618344, -0.367165
+[Info]    MMOServerPlugin       Goodbye adventurer, 3
+[Info]    ClientManager         Client [3] disconnected.

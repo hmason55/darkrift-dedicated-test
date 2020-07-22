@@ -1,0 +1,101 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 25039, 25039
+[Info]    MMOServerPlugin       Spawned enemy 37288, 37288
+[Info]    MMOServerPlugin       Spawned enemy 39289, 39289
+[Info]    MMOServerPlugin       Spawned enemy 24523, 24523
+[Info]    MMOServerPlugin       Spawned enemy 23958, 23958
+[Info]    MMOServerPlugin       Spawned enemy 56623, 56623
+[Info]    MMOServerPlugin       Spawned enemy 30175, 30175
+[Info]    MMOServerPlugin       Spawned enemy 27226, 27226
+[Info]    MMOServerPlugin       Spawned enemy 20144, 20144
+[Info]    MMOServerPlugin       Spawned enemy 12181, 12181
+[Info]    MMOServerPlugin       Spawned enemy 35118, 35118
+[Info]    MMOServerPlugin       Spawned enemy 3458, 3458
+[Info]    MMOServerPlugin       Spawned enemy 18383, 18383
+[Info]    MMOServerPlugin       Spawned enemy 40719, 40719
+[Info]    MMOServerPlugin       Spawned enemy 15142, 15142
+[Info]    MMOServerPlugin       Spawned enemy 2349, 2349
+[Info]    MMOServerPlugin       Spawned enemy 15573, 15573
+[Info]    MMOServerPlugin       Spawned enemy 52403, 52403
+[Info]    MMOServerPlugin       Spawned enemy 1371, 1371
+[Info]    MMOServerPlugin       Spawned enemy 53531, 53531
+[Info]    MMOServerPlugin       Spawned enemy 6348, 6348
+[Info]    MMOServerPlugin       Spawned enemy 18847, 18847
+[Info]    MMOServerPlugin       Spawned enemy 50307, 50307
+[Info]    MMOServerPlugin       Spawned enemy 38933, 38933
+[Info]    MMOServerPlugin       Spawned enemy 28623, 28623
+[Info]    MMOServerPlugin       Spawned enemy 55598, 55598
+[Info]    MMOServerPlugin       Spawned enemy 49116, 49116
+[Info]    MMOServerPlugin       Spawned enemy 29228, 29228
+[Info]    MMOServerPlugin       Spawned enemy 52243, 52243
+[Info]    MMOServerPlugin       Spawned enemy 33471, 33471
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:53820.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57654.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:53820|127.0.0.1:57654].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Enemy 39289 was slain.
+[Info]    MMOServerPlugin       Enemy 56623 was slain.
+[Info]    MMOServerPlugin       Enemy 20144 was slain.
+[Info]    MMOServerPlugin       Enemy 3458 was slain.
+[Info]    MMOServerPlugin       Enemy 15142 was slain.
+[Info]    MMOServerPlugin       Enemy 52403 was slain.
+[Info]    MMOServerPlugin       Enemy 6348 was slain.
+[Info]    MMOServerPlugin       Enemy 38933 was slain.
+[Info]    MMOServerPlugin       Enemy 49116 was slain.
+[Info]    MMOServerPlugin       Enemy 33471 was slain.
+[Info]    MMOServerPlugin       Enemy 24523 was slain.
+[Info]    MMOServerPlugin       Enemy 27226 was slain.
+[Info]    MMOServerPlugin       Enemy 18383 was slain.
+[Info]    MMOServerPlugin       Enemy 15573 was slain.
+[Info]    MMOServerPlugin       Enemy 18847 was slain.
+[Info]    MMOServerPlugin       Enemy 55598 was slain.
+[Info]    MMOServerPlugin       Enemy 25039 was slain.
+[Info]    MMOServerPlugin       Enemy 30175 was slain.
+[Info]    MMOServerPlugin       Enemy 40719 was slain.
+[Info]    MMOServerPlugin       Enemy 53531 was slain.
+[Info]    MMOServerPlugin       Enemy 29228 was slain.
+[Info]    MMOServerPlugin       Enemy 23958 was slain.
+[Info]    MMOServerPlugin       Enemy 2349 was slain.
+[Info]    MMOServerPlugin       Enemy 28623 was slain.
+[Info]    MMOServerPlugin       Enemy 12181 was slain.
+[Info]    MMOServerPlugin       Enemy 50307 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 3584, 3584
+[Info]    MMOServerPlugin       Spawned enemy 53221, 53221
+[Info]    MMOServerPlugin       Spawned enemy 6153, 6153
+[Info]    MMOServerPlugin       Spawned enemy 53421, 53421
+[Info]    MMOServerPlugin       Spawned enemy 33370, 33370
+[Info]    MMOServerPlugin       Spawned enemy 10357, 10357
+[Info]    MMOServerPlugin       Spawned enemy 37104, 37104
+[Info]    MMOServerPlugin       Spawned enemy 18393, 18393
+[Info]    MMOServerPlugin       Spawned enemy 18585, 18585
+[Info]    MMOServerPlugin       Spawned enemy 11184, 11184
+[Info]    MMOServerPlugin       Spawned enemy 19713, 19713
+[Info]    MMOServerPlugin       Spawned enemy 48880, 48880
+[Info]    MMOServerPlugin       Spawned enemy 17029, 17029
+[Info]    MMOServerPlugin       Spawned enemy 37736, 37736
+[Info]    MMOServerPlugin       Spawned enemy 42598, 42598
+[Info]    MMOServerPlugin       Spawned enemy 20035, 20035
+[Info]    MMOServerPlugin       Spawned enemy 45097, 45097
+[Info]    MMOServerPlugin       Spawned enemy 43318, 43318
+[Info]    MMOServerPlugin       Spawned enemy 42171, 42171
+[Info]    MMOServerPlugin       Spawned enemy 22609, 22609
+[Info]    MMOServerPlugin       Spawned enemy 20657, 20657
+[Info]    MMOServerPlugin       Spawned enemy 34602, 34602
+[Info]    MMOServerPlugin       Spawned enemy 1639, 1639
+[Info]    MMOServerPlugin       Spawned enemy 25668, 25668
+[Info]    MMOServerPlugin       Spawned enemy 48847, 48847
+[Info]    MMOServerPlugin       Spawned enemy 57559, 57559
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.

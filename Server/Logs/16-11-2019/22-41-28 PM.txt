@@ -1,0 +1,48 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Loading map... 
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 0
+[Info]    MMOServerPlugin       Collider Point: 56.92658, -36.5727
+[Info]    MMOServerPlugin       Collider Point: 54.864, -50.84182
+[Info]    MMOServerPlugin       Collider Point: 48.80098, -62.98804
+[Info]    MMOServerPlugin       Collider Point: 39.66055, -71.16222
+[Info]    MMOServerPlugin       Collider Point: 28.83426, -74.11992
+[Info]    MMOServerPlugin       Collider Point: 17.97033, -71.41084
+[Info]    MMOServerPlugin       Collider Point: 8.722683, -63.44743
+[Info]    MMOServerPlugin       Collider Point: 2.499187, -51.44204
+[Info]    MMOServerPlugin       Collider Point: 0.2473162, -37.22237
+[Info]    MMOServerPlugin       Collider Point: 2.3099, -22.95326
+[Info]    MMOServerPlugin       Collider Point: 8.372924, -10.80704
+[Info]    MMOServerPlugin       Collider Point: 17.51335, -2.63286
+[Info]    MMOServerPlugin       Collider Point: 28.33963, 0.3248347
+[Info]    MMOServerPlugin       Collider Point: 39.20356, -2.384242
+[Info]    MMOServerPlugin       Collider Point: 48.45122, -10.34765
+[Info]    MMOServerPlugin       Collider Point: 54.67471, -22.35305
+[Info]    MMOServerPlugin       Spawned enemy 1
+[Info]    MMOServerPlugin       Collider Point: -46.10833, -12.57574
+[Info]    MMOServerPlugin       Collider Point: -44.43771, -17.48226
+[Info]    MMOServerPlugin       Collider Point: -39.5269, -21.65881
+[Info]    MMOServerPlugin       Collider Point: -32.12351, -24.46955
+[Info]    MMOServerPlugin       Collider Point: -23.35464, -25.48657
+[Info]    MMOServerPlugin       Collider Point: -14.55527, -24.55504
+[Info]    MMOServerPlugin       Collider Point: -7.065035, -21.81677
+[Info]    MMOServerPlugin       Collider Point: -2.024245, -17.68865
+[Info]    MMOServerPlugin       Collider Point: -0.2003166, -12.79913
+[Info]    MMOServerPlugin       Collider Point: -1.870929, -7.892616
+[Info]    MMOServerPlugin       Collider Point: -6.781744, -3.716065
+[Info]    MMOServerPlugin       Collider Point: -14.18514, -0.9053244
+[Info]    MMOServerPlugin       Collider Point: -22.95401, 0.1116963
+[Info]    MMOServerPlugin       Collider Point: -31.75337, -0.8198357
+[Info]    MMOServerPlugin       Collider Point: -39.24361, -3.558102
+[Info]    MMOServerPlugin       Collider Point: -44.2844, -7.686228
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.

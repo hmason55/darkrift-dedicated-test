@@ -1,0 +1,162 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 15349, 15349
+[Info]    MMOServerPlugin       Spawned enemy 11489, 11489
+[Info]    MMOServerPlugin       Spawned enemy 19704, 19704
+[Info]    MMOServerPlugin       Spawned enemy 10761, 10761
+[Info]    MMOServerPlugin       Spawned enemy 41185, 41185
+[Info]    MMOServerPlugin       Spawned enemy 6569, 6569
+[Info]    MMOServerPlugin       Spawned enemy 24363, 24363
+[Info]    MMOServerPlugin       Spawned enemy 24296, 24296
+[Info]    MMOServerPlugin       Spawned enemy 53140, 53140
+[Info]    MMOServerPlugin       Spawned enemy 25874, 25874
+[Info]    MMOServerPlugin       Spawned enemy 38430, 38430
+[Info]    MMOServerPlugin       Spawned enemy 47082, 47082
+[Info]    MMOServerPlugin       Spawned enemy 51333, 51333
+[Info]    MMOServerPlugin       Spawned enemy 11651, 11651
+[Info]    MMOServerPlugin       Spawned enemy 13553, 13553
+[Info]    MMOServerPlugin       Spawned enemy 63794, 63794
+[Info]    MMOServerPlugin       Spawned enemy 28387, 28387
+[Info]    MMOServerPlugin       Spawned enemy 6067, 6067
+[Info]    MMOServerPlugin       Spawned enemy 40849, 40849
+[Info]    MMOServerPlugin       Spawned enemy 25061, 25061
+[Info]    MMOServerPlugin       Spawned enemy 56402, 56402
+[Info]    MMOServerPlugin       Spawned enemy 3724, 3724
+[Info]    MMOServerPlugin       Spawned enemy 38855, 38855
+[Info]    MMOServerPlugin       Spawned enemy 17602, 17602
+[Info]    MMOServerPlugin       Spawned enemy 10659, 10659
+[Info]    MMOServerPlugin       Spawned enemy 26836, 26836
+[Info]    MMOServerPlugin       Spawned enemy 40625, 40625
+[Info]    MMOServerPlugin       Spawned enemy 35049, 35049
+[Info]    MMOServerPlugin       Spawned enemy 26344, 26344
+[Info]    MMOServerPlugin       Spawned enemy 61048, 61048
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:53823.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:57657.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:53823|127.0.0.1:57657].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
+[Info]    MMOServerPlugin       Enemy 19704 was slain.
+[Info]    MMOServerPlugin       Enemy 6569 was slain.
+[Info]    MMOServerPlugin       Enemy 53140 was slain.
+[Info]    MMOServerPlugin       Enemy 47082 was slain.
+[Info]    MMOServerPlugin       Enemy 13553 was slain.
+[Info]    MMOServerPlugin       Enemy 6067 was slain.
+[Info]    MMOServerPlugin       Enemy 56402 was slain.
+[Info]    MMOServerPlugin       Enemy 17602 was slain.
+[Info]    MMOServerPlugin       Enemy 40625 was slain.
+[Info]    MMOServerPlugin       Enemy 61048 was slain.
+[Info]    MMOServerPlugin       Enemy 10761 was slain.
+[Info]    MMOServerPlugin       Enemy 24296 was slain.
+[Info]    MMOServerPlugin       Enemy 51333 was slain.
+[Info]    MMOServerPlugin       Enemy 28387 was slain.
+[Info]    MMOServerPlugin       Enemy 3724 was slain.
+[Info]    MMOServerPlugin       Enemy 26836 was slain.
+[Info]    MMOServerPlugin       Enemy 15349 was slain.
+[Info]    MMOServerPlugin       Enemy 24363 was slain.
+[Info]    MMOServerPlugin       Enemy 11651 was slain.
+[Info]    MMOServerPlugin       Enemy 25061 was slain.
+[Info]    MMOServerPlugin       Enemy 35049 was slain.
+[Info]    MMOServerPlugin       Enemy 41185 was slain.
+[Info]    MMOServerPlugin       Enemy 63794 was slain.
+[Info]    MMOServerPlugin       Enemy 10659 was slain.
+[Info]    MMOServerPlugin       Enemy 25874 was slain.
+[Info]    MMOServerPlugin       Enemy 38855 was slain.
+[Info]    MMOServerPlugin       Enemy 38430 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 53831, 53831
+[Info]    MMOServerPlugin       Spawned enemy 61758, 61758
+[Info]    MMOServerPlugin       Spawned enemy 14195, 14195
+[Info]    MMOServerPlugin       Spawned enemy 33379, 33379
+[Info]    MMOServerPlugin       Spawned enemy 34540, 34540
+[Info]    MMOServerPlugin       Spawned enemy 12799, 12799
+[Info]    MMOServerPlugin       Spawned enemy 53764, 53764
+[Info]    MMOServerPlugin       Spawned enemy 2370, 2370
+[Info]    MMOServerPlugin       Spawned enemy 30874, 30874
+[Info]    MMOServerPlugin       Spawned enemy 35508, 35508
+[Info]    MMOServerPlugin       Spawned enemy 4613, 4613
+[Info]    MMOServerPlugin       Spawned enemy 25969, 25969
+[Info]    MMOServerPlugin       Spawned enemy 18000, 18000
+[Info]    MMOServerPlugin       Spawned enemy 48727, 48727
+[Info]    MMOServerPlugin       Spawned enemy 22537, 22537
+[Info]    MMOServerPlugin       Spawned enemy 62365, 62365
+[Info]    MMOServerPlugin       Spawned enemy 7362, 7362
+[Info]    MMOServerPlugin       Spawned enemy 42905, 42905
+[Info]    MMOServerPlugin       Spawned enemy 5002, 5002
+[Info]    MMOServerPlugin       Spawned enemy 20689, 20689
+[Info]    MMOServerPlugin       Spawned enemy 18178, 18178
+[Info]    MMOServerPlugin       Spawned enemy 57203, 57203
+[Info]    MMOServerPlugin       Spawned enemy 27236, 27236
+[Info]    MMOServerPlugin       Spawned enemy 36619, 36619
+[Info]    MMOServerPlugin       Spawned enemy 18706, 18706
+[Info]    MMOServerPlugin       Spawned enemy 41225, 41225
+[Info]    MMOServerPlugin       Spawned enemy 19281, 19281
+[Info]    MMOServerPlugin       Enemy 11489 was slain.
+[Info]    MMOServerPlugin       Enemy 53831 was slain.
+[Info]    MMOServerPlugin       Enemy 33379 was slain.
+[Info]    MMOServerPlugin       Enemy 53764 was slain.
+[Info]    MMOServerPlugin       Enemy 30874 was slain.
+[Info]    MMOServerPlugin       Enemy 48727 was slain.
+[Info]    MMOServerPlugin       Enemy 7362 was slain.
+[Info]    MMOServerPlugin       Enemy 20689 was slain.
+[Info]    MMOServerPlugin       Enemy 27236 was slain.
+[Info]    MMOServerPlugin       Enemy 18706 was slain.
+[Info]    MMOServerPlugin       Enemy 26344 was slain.
+[Info]    MMOServerPlugin       Enemy 12799 was slain.
+[Info]    MMOServerPlugin       Enemy 2370 was slain.
+[Info]    MMOServerPlugin       Enemy 25969 was slain.
+[Info]    MMOServerPlugin       Enemy 18178 was slain.
+[Info]    MMOServerPlugin       Enemy 36619 was slain.
+[Info]    MMOServerPlugin       Enemy 40849 was slain.
+[Info]    MMOServerPlugin       Enemy 34540 was slain.
+[Info]    MMOServerPlugin       Enemy 4613 was slain.
+[Info]    MMOServerPlugin       Enemy 42905 was slain.
+[Info]    MMOServerPlugin       Enemy 19281 was slain.
+[Info]    MMOServerPlugin       Enemy 35508 was slain.
+[Info]    MMOServerPlugin       Enemy 5002 was slain.
+[Info]    MMOServerPlugin       Enemy 61758 was slain.
+[Info]    MMOServerPlugin       Enemy 18000 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 20553, 20553
+[Info]    MMOServerPlugin       Spawned enemy 33558, 33558
+[Info]    MMOServerPlugin       Spawned enemy 43185, 43185
+[Info]    MMOServerPlugin       Spawned enemy 27523, 27523
+[Info]    MMOServerPlugin       Enemy 14195 was slain.
+[Info]    MMOServerPlugin       Enemy 41225 was slain.
+[Info]    MMOServerPlugin       Enemy 57203 was slain.
+[Info]    MMOServerPlugin       Enemy 20553 was slain.
+[Info]    MMOServerPlugin       Enemy 22537 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 8154, 8154
+[Info]    MMOServerPlugin       Spawned enemy 32432, 32432
+[Info]    MMOServerPlugin       Spawned enemy 25694, 25694
+[Info]    MMOServerPlugin       Spawned enemy 36863, 36863
+[Info]    MMOServerPlugin       Spawned enemy 27530, 27530
+[Info]    MMOServerPlugin       Enemy 25694 was slain.
+[Info]    MMOServerPlugin       Enemy 32432 was slain.
+[Info]    MMOServerPlugin       Enemy 27530 was slain.
+[Info]    MMOServerPlugin       Enemy 8154 was slain.
+[Info]    MMOServerPlugin       Enemy 36863 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 566, 566
+[Info]    MMOServerPlugin       Spawned enemy 61443, 61443
+[Info]    MMOServerPlugin       Spawned enemy 46207, 46207
+[Info]    MMOServerPlugin       Spawned enemy 25991, 25991
+[Info]    MMOServerPlugin       Spawned enemy 32428, 32428
+[Info]    MMOServerPlugin       Enemy 46207 was slain.
+[Info]    MMOServerPlugin       Enemy 566 was slain.
+[Info]    MMOServerPlugin       Enemy 32428 was slain.
+[Info]    MMOServerPlugin       Enemy 61443 was slain.
+[Info]    MMOServerPlugin       Enemy 25991 was slain.
+[Info]    MMOServerPlugin       Spawned enemy 15657, 15657
+[Info]    MMOServerPlugin       Spawned enemy 12210, 12210
+[Info]    MMOServerPlugin       Spawned enemy 36708, 36708
+[Info]    MMOServerPlugin       Spawned enemy 50695, 50695
+[Info]    MMOServerPlugin       Spawned enemy 43469, 43469
+[Info]    MMOServerPlugin       Goodbye adventurer, 0
+[Info]    ClientManager         Client [0] disconnected.

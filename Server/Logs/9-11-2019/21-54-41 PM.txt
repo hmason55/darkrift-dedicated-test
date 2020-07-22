@@ -1,0 +1,13 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Fatal]   DarkRiftServer        A listener threw an exception while starting, the server can't be started.
+                                 System.Net.Sockets.SocketException (0x80004005): Only one usage of each socket address (protocol/network address/port) is normally permitted
+                                    at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+                                    at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+                                    at DarkRift.Server.Plugins.Listeners.Bichannel.BichannelListenerBase.BindSockets()
+                                    at DarkRift.Server.Plugins.Listeners.Bichannel.BichannelListener.StartListening()
+                                    at DarkRift.Server.NetworkListenerManager.StartListening()
+                                    at DarkRift.Server.DarkRiftServer.Start()

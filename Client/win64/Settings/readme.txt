@@ -1,0 +1,1 @@
+copy this directory to the installation root upon building the standalone.

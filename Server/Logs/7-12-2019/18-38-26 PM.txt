@@ -1,0 +1,77 @@
+[Trace]   DarkRiftServer        System Details:
+                                	OS: Microsoft Windows NT 6.2.9200.0
+                                	CLS Version: 4.0.30319.42000
+                                	DarkRift: 2.3.1.0 - Free
+[Info]    MMOServerPlugin       Spawning enemies... 
+[Info]    MMOServerPlugin       Spawned enemy 24165, 24165
+[Info]    MMOServerPlugin       Spawned enemy 16633, 16633
+[Info]    MMOServerPlugin       Spawned enemy 50571, 50571
+[Info]    MMOServerPlugin       Spawned enemy 11211, 11211
+[Info]    MMOServerPlugin       Spawned enemy 59088, 59088
+[Info]    MMOServerPlugin       Spawned enemy 23989, 23989
+[Info]    MMOServerPlugin       Spawned enemy 20110, 20110
+[Info]    MMOServerPlugin       Spawned enemy 59128, 59128
+[Info]    MMOServerPlugin       Spawned enemy 41794, 41794
+[Info]    MMOServerPlugin       Spawned enemy 30277, 30277
+[Info]    MMOServerPlugin       Spawned enemy 43530, 43530
+[Info]    MMOServerPlugin       Spawned enemy 51426, 51426
+[Info]    MMOServerPlugin       Spawned enemy 36973, 36973
+[Info]    MMOServerPlugin       Spawned enemy 45854, 45854
+[Info]    MMOServerPlugin       Spawned enemy 15410, 15410
+[Info]    MMOServerPlugin       Spawned enemy 37978, 37978
+[Info]    MMOServerPlugin       Spawned enemy 27883, 27883
+[Info]    MMOServerPlugin       Spawned enemy 26150, 26150
+[Info]    MMOServerPlugin       Spawned enemy 28985, 28985
+[Info]    MMOServerPlugin       Spawned enemy 21449, 21449
+[Info]    MMOServerPlugin       Spawned enemy 33605, 33605
+[Info]    MMOServerPlugin       Spawned enemy 63908, 63908
+[Info]    MMOServerPlugin       Spawned enemy 5667, 5667
+[Info]    MMOServerPlugin       Spawned enemy 44425, 44425
+[Info]    MMOServerPlugin       Spawned enemy 62244, 62244
+[Info]    MMOServerPlugin       Spawned enemy 62100, 62100
+[Info]    MMOServerPlugin       Spawned enemy 4472, 4472
+[Info]    MMOServerPlugin       Spawned enemy 63403, 63403
+[Info]    MMOServerPlugin       Spawned enemy 32548, 32548
+[Info]    MMOServerPlugin       Spawned enemy 22169, 22169
+[Info]    MMOServerPlugin       Spawned enemy 60333, 60333
+[Info]    MMOServerPlugin       Spawned enemy 57887, 57887
+[Info]    MMOServerPlugin       Spawned enemy 5120, 5120
+[Info]    MMOServerPlugin       Spawned enemy 59518, 59518
+[Info]    MMOServerPlugin       Spawned enemy 16867, 16867
+[Info]    MMOServerPlugin       Spawned enemy 45534, 45534
+[Info]    MMOServerPlugin       Spawned enemy 38187, 38187
+[Info]    MMOServerPlugin       Spawned enemy 50583, 50583
+[Info]    MMOServerPlugin       Spawned enemy 29939, 29939
+[Info]    MMOServerPlugin       Spawned enemy 15174, 15174
+[Info]    MMOServerPlugin       Spawned enemy 11722, 11722
+[Info]    MMOServerPlugin       Spawned enemy 49658, 49658
+[Info]    MMOServerPlugin       Spawned enemy 58274, 58274
+[Info]    MMOServerPlugin       Spawned enemy 10790, 10790
+[Info]    MMOServerPlugin       Spawned enemy 46443, 46443
+[Info]    MMOServerPlugin       Spawned enemy 58974, 58974
+[Info]    MMOServerPlugin       Spawned enemy 64712, 64712
+[Info]    MMOServerPlugin       Spawned enemy 33993, 33993
+[Info]    MMOServerPlugin       Spawned enemy 9000, 9000
+[Info]    MMOServerPlugin       Spawned enemy 20663, 20663
+[Info]    MMOServerPlugin       Spawned enemy 49225, 49225
+[Info]    MMOServerPlugin       Spawned enemy 17547, 17547
+[Info]    MMOServerPlugin       Spawned enemy 16477, 16477
+[Info]    MMOServerPlugin       Spawned enemy 10398, 10398
+[Info]    MMOServerPlugin       Spawned enemy 13297, 13297
+[Info]    MMOServerPlugin       Spawned enemy 25473, 25473
+[Info]    MMOServerPlugin       Spawned enemy 6366, 6366
+[Info]    MMOServerPlugin       Spawned enemy 25316, 25316
+[Info]    MMOServerPlugin       Spawned enemy 18117, 18117
+[Info]    MMOServerPlugin       Spawned enemy 18703, 18703
+[Info]    MMOServerPlugin       Launching server...
+[Trace]   PluginFactory         Created plugin 'MMOServerPlugin'.
+[Trace]   ExtendedPluginManagerBase Plugin 'MMOServerPlugin' has requested that DarkRift operates in thread safe mode.
+[Trace]   DarkRiftServer        Switched into thread safe mode. Expect lower performance!
+[Info]    ExtendedPluginManagerBase Loaded plugin MMOServerPlugin version 0.0.1
+[Trace]   PluginFactory         Created plugin 'BichannelListener'.
+[Trace]   DefaultNetworkListener Starting bichannel listener.
+[Info]    DefaultNetworkListener Server mounted, listening on port 4296.
+[Trace]   DefaultNetworkListener Accepted TCP connection from 127.0.0.1:50317.
+[Trace]   DefaultNetworkListener Accepted UDP connection from 127.0.0.1:51602.
+[Info]    ClientManager         New client [0] connected [127.0.0.1:50317|127.0.0.1:51602].
+[Info]    MMOServerPlugin       Welcome adventurer, 0
